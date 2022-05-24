@@ -1,0 +1,5 @@
+# Gboard Dictionary version:1
+	Gryffindor	
+	Hufflepuff	
+	Ravenclaw	
+	Slytherin	

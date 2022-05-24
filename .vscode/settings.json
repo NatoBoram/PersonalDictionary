@@ -1,0 +1,10 @@
+{
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.insertSpaces": false,
+	"files.insertFinalNewline": false,
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": false,
+	"hungryDelete.keepOneSpace": false
+}

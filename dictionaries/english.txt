@@ -1,0 +1,3 @@
+# Gboard Dictionary version:1
+iirc	if I remember correctly	en
+ik	I know	en
