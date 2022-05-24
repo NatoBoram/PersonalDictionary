@@ -1,0 +1,5 @@
+// https://leagueoflegends.fandom.com/wiki/Item_(League_of_Legends)
+Array.from(document.querySelectorAll("#item-grid div.item-icon"))
+	.map((div) => div.dataset["item"])
+	.sort()
+	.join("\n")

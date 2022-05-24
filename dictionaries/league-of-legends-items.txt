@@ -1,0 +1,534 @@
+# Gboard Dictionary version:1
+	Abyssal Mask	
+	Abyssal Scepter	
+	Adaptive Helm	
+	Aegis of the Legion	
+	Aether Wisp	
+	Alacrity	
+	Amplifying Tome	
+	Anathema's Chains	
+	Ancient Coin	
+	Ancient Pocket Watch	
+	Anti-Tower Socks	
+	Arcane Helix	
+	Arcane Sweeper (Item)	
+	Arcane Sweeper (Trinket)	
+	Archangel's Staff	
+	Archangel's Staff (Quick Charge)	
+	Ardent Censer	
+	Athene's Unholy Grail	
+	Atma's Impaler	
+	Atma's Reckoning	
+	Augment: Death	
+	Augment: Gravity	
+	Augment: Power	
+	Avarice Blade	
+	Axiom Arc	
+	B. F. Sword	
+	Bag of Tea	
+	Bami's Cinder	
+	Bandleglass Mirror	
+	Banner of Command	
+	Banshee's Veil	
+	Base Turret Reinforced Armor (Turret Item)	
+	Berserker's Greaves	
+	Bilgewater Cutlass	
+	Black Cleaver	
+	Black Mist Scythe	
+	Black Spear	
+	Blackfire Torch	
+	Blade of the Ruined King	
+	Blasting Wand	
+	Blighting Jewel	
+	Blink Dagger	
+	Bloodletter's Veil	
+	Bloodrazor	
+	Bloodthirster	
+	Bloodward	
+	Blue Pill	
+	Bonetooth Necklace	
+	Boots	
+	Boots of Mobility	
+	Boots of Speed	
+	Boots of Swiftness	
+	Bramble Vest	
+	Brawler's Gloves	
+	Breathstealer	
+	Broken Stopwatch	
+	Bulwark of the Mountain	
+	Caesura	
+	Captain	
+	Catalyst of Aeons	
+	Catalyst the Protector	
+	Caulfield's Warhammer	
+	Ceaseless Hunger	
+	Celestial Eye	
+	Chain Vest	
+	Chalice of Harmony	
+	Chempunk Chainsword	
+	Chemtech Putrifier	
+	Cinderhulk	
+	Circlet of the Iron Solari	
+	Cloak and Dagger	
+	Cloak of Agility	
+	Cloak of Stars	
+	Cloth Armor	
+	Commencing Stopwatch	
+	Control Ward	
+	Corrupting Potion	
+	Cosmic Drive	
+	Cosmic Shackle	
+	Crown of the Shattered Queen	
+	Crystalline Bracer	
+	Crystalline Flask	
+	Cull	
+	Dagger	
+	Dark Matter Scythe	
+	Dark Seal	
+	Dark Star Sigil	
+	Dead Man's Plate	
+	Death's Dance	
+	Death's Daughter	
+	Deathfire Grasp	
+	Defense Upgrades	
+	Deicide	
+	Demonic Embrace	
+	Dervish Blade	
+	Devourer	
+	Distortion	
+	Divine Sunderer	
+	Doran's Blade	
+	Doran's Lost Blade	
+	Doran's Lost Idol	
+	Doran's Lost Ring	
+	Doran's Lost Shield	
+	Doran's Ring	
+	Doran's Shield	
+	Draktharr's Shadowcarver	
+	Dreamshatter	
+	Duskblade of Draktharr	
+	Eclipse	
+	Edge of Night	
+	Eleisa's Miracle	
+	Elixir of Agility	
+	Elixir of Brilliance	
+	Elixir of Fortitude	
+	Elixir of Iron	
+	Elixir of Ruin	
+	Elixir of Skill	
+	Elixir of Sorcery	
+	Elixir of Wrath	
+	Emberknife	
+	Emblem of Valor	
+	Enchantment: Homeguard	
+	Entropy	
+	Entropy Field	
+	Equinox	
+	Espresso Snax	
+	Essence Reaver	
+	Eternal Winter	
+	Evenshroud	
+	Everfrost	
+	Evolution: Death Storm	
+	Evolution: Gravity Storm	
+	Evolution: Power Storm	
+	Executioner's Calling	
+	Explorer's Ward	
+	Eye of Ascension	
+	Eye of Frost	
+	Eye of Luden	
+	Eye of the Aspect	
+	Eye of the Equinox	
+	Eye of the Herald	
+	Eye of the Oasis	
+	Eye of the Watchers	
+	Face of the Mountain	
+	Faerie Charm	
+	Farsight Alteration	
+	Farsight Orb	
+	Feral Flare	
+	Fiendish Codex	
+	Fimbulwinter	
+	Fire at Will	
+	Flash Zone	
+	Flesheater	
+	Forbidden Idol	
+	Force of Nature	
+	Forgefire Cape	
+	Forgefire Crest	
+	Fortification	
+	Frost Queen's Claim	
+	Frosted Snax	
+	Frostfang	
+	Frostfire Gauntlet	
+	Frozen Fist	
+	Frozen Heart	
+	Frozen Mallet	
+	Furor	
+	Galeforce	
+	Gargoyle Stoneplate	
+	Ghostwalkers	
+	Giant Slayer	
+	Giant's Belt	
+	Glacial Buckler	
+	Glacial Shroud	
+	Globe of Trust	
+	Golden Transcendence	
+	Goredrinker	
+	Gouging Blade	
+	Gravity Boots	
+	Greater Lens	
+	Greater Orb	
+	Greater Stealth Totem	
+	Greater Totem	
+	Greater Vision Totem	
+	Grez's Spectral Lantern	
+	Guardian Angel	
+	Guardian's Blade	
+	Guardian's Hammer	
+	Guardian's Horn	
+	Guardian's Orb	
+	Guinsoo's Rageblade	
+	Gusto	
+	Hailblade	
+	Harrowing Crescent	
+	Haunting Guise	
+	Head of Kha'Zix	
+	Health Potion	
+	Heart of Gold	
+	Heart of Targon	
+	Hearthbound Axe	
+	Hex Core mk-1	
+	Hex Core mk-2	
+	Hexdrinker	
+	Hexdrinker (old)	
+	Hextech Alternator	
+	Hextech GLP-800	
+	Hextech Gunblade	
+	Hextech Protobelt-01	
+	Hextech Revolver	
+	Hextech Rocketbelt	
+	Horizon Focus	
+	Hullbreaker	
+	Hunter's Machete	
+	Hunter's Potion	
+	Hunter's Talisman	
+	Icathia's Curse	
+	Iceborn Gauntlet	
+	Ichor of Illumination	
+	Ichor of Rage	
+	Immortal Shieldbow	
+	Imperial Mandate	
+	Infernal Mask	
+	Infinity Edge	
+	Infinity Force	
+	Innervating Locket	
+	Ionian Boots of Lucidity	
+	Ionic Spark	
+	Ironspike Whip	
+	Jaurim's Fist	
+	Juggernaut	
+	Kage's Lucky Pick	
+	Kindlegem	
+	Kircheis Shard	
+	Kitae's Bloodrazor	
+	Knight's Vow	
+	Kraken Slayer	
+	Last Whisper	
+	Leeching Leer	
+	Leviathan	
+	Liandry's Anguish	
+	Liandry's Lament	
+	Liandry's Torment	
+	Lich Bane	
+	Lifeline	
+	Lightbringer	
+	Lightning Rod	
+	Locket of the Iron Solari	
+	Long Sword	
+	Looted Oracle's Extract	
+	Lord Dominik's Regards	
+	Lord Van Damm's Pillager	
+	Lost Chapter	
+	Luden's Echo	
+	Luden's Echo (3286)	
+	Luden's Pulse	
+	Luden's Tempest	
+	Madred's Bloodrazor	
+	Madred's Razors	
+	Magus	
+	Malady	
+	Mana Manipulator	
+	Mana Potion	
+	Manamune	
+	Manamune (Quick Charge)	
+	Mandrake Ward	
+	Mariner's Vengeance	
+	Marksman's Rifle	
+	Martyr's Gambit	
+	Maw of Malmortius	
+	Mejai's Soulstealer	
+	Meki Pendant	
+	Mercenary Upgrades	
+	Mercurial Scimitar	
+	Mercury's Treads	
+	Might of the Ruined King	
+	Mikael's Blessing	
+	Mikael's Crucible	
+	Minion Dematerializer	
+	Mirage Blade	
+	Mobility Boots	
+	Molten Edge	
+	Moonflair Spellblade	
+	Moonstone Renewer	
+	Morellonomicon	
+	Mortal Reminder	
+	Muramana	
+	Muramana (Quick Charge)	
+	Murksphere	
+	Nashor's Tooth	
+	Navori Quickblades	
+	Needlessly Large Rod	
+	Negatron Cloak	
+	Netherstride Grimoire	
+	Night Harvester	
+	Ninja Tabi	
+	Nomad's Eye	
+	Nomad's Medallion	
+	Noonquiver	
+	Null-Magic Mantle	
+	Oblivion Orb	
+	Obsidian Cleaver	
+	Obsidian Edge	
+	Odyn's Veil	
+	Offense Upgrades	
+	Ohmwrecker	
+	Ohmwrecker (Turret Item)	
+	Oponn's Razor	
+	Oracle Lens	
+	Oracle's Elixir	
+	Oracle's Extract	
+	Oracle's Hood	
+	Oracle's Lens	
+	Orb of Winter	
+	Overcharged	
+	Overlord's Bloodmail	
+	Pathfinder's Knife	
+	Pauldrons of Whiterock	
+	Peering Farsight Ward	
+	Pendant of Zephiris	
+	Perfect Hex Core	
+	Perfectly Timed Stopwatch	
+	Phage	
+	Phantom Dancer	
+	Philosopher's Medallion	
+	Philosopher's Stone	
+	Phreakish Gusto	
+	Pickaxe	
+	Pilfered Health Potion	
+	Pilfered Potion of Rouge	
+	Pilfered Stealth Ward	
+	Plated Steelcaps	
+	Poacher's Dirk	
+	Poacher's Knife	
+	Poro-Snax	
+	Port Pad	
+	Pox Arcana	
+	Pridestalker's Blade	
+	Priscilla's Blessing	
+	Prospector's Blade	
+	Prospector's Ring	
+	Prototype Hex Core	
+	Prowler's Claw	
+	Puppeteer	
+	Quicksilver Sash	
+	Quill Coat	
+	Rabadon's Deathcap	
+	Rabadon's Deathcrown	
+	Rageknife	
+	Rainbow Snax Party Pack!	
+	Raise Morale	
+	Randuin's Omen	
+	Ranger's Trailblazer	
+	Rapid Firecannon	
+	Raptor Cloak	
+	Ravenous Hydra	
+	Recurve Bow	
+	Redemption	
+	Refillable Potion	
+	Regrowth Pendant	
+	Reinforced Armor (Turret Item)	
+	Rejuvenation Bead	
+	Rejuvenation Potion	
+	Relic Shield	
+	Reliquary of the Golden Dawn	
+	Remnant of the Ascended	
+	Remnant of the Aspect	
+	Remnant of the Watchers	
+	Renewal Tunic	
+	Riftmaker	
+	Righteous Glory	
+	Rimeforged Grasp	
+	Rite of Ruin	
+	Rod of Ages	
+	Rod of Ages (Quick Charge)	
+	Ruby Crystal	
+	Ruby Sightstone	
+	Runaan's Hurricane	
+	Runeglaive	
+	Runegorger	
+	Runesteel Spaulders	
+	Runic Bulwark	
+	Runic Echoes	
+	Rylai's Crystal Scepter	
+	Sage's Ring	
+	Salvation	
+	Sandshrike's Claw	
+	Sanguine Blade	
+	Sapphire Crystal	
+	Sated Devourer	
+	Scarecrow Effigy	
+	Scroll of Teleportation	
+	Scrying Orb	
+	Seat of Command	
+	Seeker's Armguard	
+	Seer Stone	
+	Seraph's Embrace	
+	Seraph's Embrace (Quick Charge)	
+	Serpent's Fang	
+	Serrated Dirk	
+	Serylda's Grudge	
+	Shadowflame	
+	Shard of True Ice	
+	Sheen	
+	Shield Totem	
+	Shurelya's Battlesong	
+	Shurelya's Requiem	
+	Shurelya's Reverie	
+	Siege Ballista	
+	Siege Sight Warder	
+	Sightstone	
+	Silvermere Dawn	
+	Singularity Lantern	
+	Skirmisher's Sabre	
+	Slightly Magical Boots	
+	Sly Sack of Gold	
+	Sorcerer's Shoes	
+	Soul Anchor	
+	Soul Shroud	
+	Soul Sickle	
+	Spear of Shojin	
+	Spectral Cutlass	
+	Spectral Sickle	
+	Spectre's Cowl	
+	Spellbinder	
+	Spellbreaker	
+	Spellthief's Edge	
+	Spirit of the Ancient Golem	
+	Spirit of the Elder Lizard	
+	Spirit of the Spectral Wraith	
+	Spirit Stone	
+	Spirit Visage	
+	Staff of Flowing Water	
+	Stalker's Blade	
+	Starcaster	
+	Stark's Fervor	
+	Stat-Stick of Stoicism	
+	Statikk Shiv	
+	Stealth Ward	
+	Stealth Ward (Item)	
+	Steel Shoulderguards	
+	Sterak's Gage	
+	Stinger	
+	Stirring Wardstone	
+	Stopwatch	
+	Stormrazor	
+	Stridebreaker	
+	Sunfire Aegis	
+	Sunfire Cape	
+	Super Mech Armor	
+	Super Mech Power Field	
+	Super Spicy Snax	
+	Sweeping Lens	
+	Swindler's Orb	
+	Sword of the Divine	
+	Sword of the Occult	
+	Syzygy	
+	Talisman of Ascension	
+	Targon's Brace	
+	Targon's Buckler	
+	Tear of the Goddess	
+	Tear of the Goddess (Quick Charge)	
+	Teleport	
+	The Brutalizer	
+	The Collector	
+	The Golden Spatula	
+	The Hex Core	
+	The Rose's Pride	
+	Thornmail	
+	Tiamat	
+	Timeworn Ancient Coin	
+	Timeworn Face of the Mountain	
+	Timeworn Frost Queen's Claim	
+	Timeworn Frostfang	
+	Timeworn Nomad's Medallion	
+	Timeworn Relic Shield	
+	Timeworn Spellthief's Edge	
+	Timeworn Talisman of Ascension	
+	Timeworn Targon's Brace	
+	Titanic Hydra	
+	Total Biscuit of Everlasting Will	
+	Total Biscuit of Rejuvenation	
+	Tower: Beam of Ruination	
+	Tower: Storm Bulwark	
+	Tracker's Knife	
+	Travel Size Elixir of Iron	
+	Travel Size Elixir of Sorcery	
+	Travel Size Elixir of Wrath	
+	Trickster's Glass	
+	Trinity Force	
+	Trinity Fusion	
+	Turbo Chemtank	
+	Turbocharged Hexperiment	
+	Turret Plating	
+	Twin Shadows	
+	Twin Shadows (3290)	
+	Typhoon	
+	Typhoon Claws	
+	Umbral Glaive	
+	Upgraded Aeropack	
+	Vampiric Scepter	
+	Vanguard	
+	Vanguard Banner	
+	Verdant Barrier	
+	Vespertide	
+	Vigilant Wardstone	
+	Vision Ward	
+	Void Staff	
+	Warden's Eye	
+	Warden's Mail	
+	Warmog's Armor	
+	Warrior	
+	Watchful Wardstone	
+	Wicked Hatchet	
+	Will of the Ancients	
+	Winged Moonplate	
+	Winter's Approach	
+	Wit's End	
+	Wizard's Regalia	
+	Wooglet's Witchcap	
+	Wooglet's Witchcrown	
+	Wriggle's Lantern	
+	Wyrmfallen Sacrifice	
+	Yordle Stompers	
+	Youmuu's Ghostblade	
+	Youmuu's Wraithblade	
+	Zeal	
+	Zeke's Convergence	
+	Zeke's Harbinger	
+	Zeke's Herald	
+	Zephyr	
+	Zhonya's Hourglass	
+	Zhonya's Paradox	
+	Zhonya's Ring	
+	Zz'Rot Portal	
