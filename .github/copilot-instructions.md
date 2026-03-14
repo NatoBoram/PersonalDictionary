@@ -2,7 +2,7 @@
 
 ## Architecture
 
-- This repository is data-first: `dictionaries/*.txt` are the source of truth and build scripts package them for Gboard import.
+- This repository is data-first: `dictionaries/*.tsv` are the source of truth and build scripts package them for Gboard import.
 - `scripts/build.sh` builds one dictionary into `PersonalDictionary-<name>.zip`.
 - `scripts/build_all.sh` loops over every file in `dictionaries/` and builds all ZIP files.
 - `scripts/*.js` files are browser-console helpers for collecting words, not Node.js runtime modules.
@@ -24,11 +24,11 @@
 ## Project-specific gotchas
 
 - `scripts/build.sh` requires the `7z` binary to be installed on the local machine.
-- `scripts/build.sh` expects exactly one dictionary argument and reads `dictionaries/<name>.txt`.
+- `scripts/build.sh` expects exactly one dictionary argument and reads `dictionaries/<name>.tsv`.
 
 ## Key references
 
 - `README.md`: usage workflow, Gboard format details and project guidelines.
 - `scripts/build.sh`: canonical single-dictionary packaging flow.
 - `scripts/build_all.sh`: canonical batch packaging flow.
-- `dictionaries/english.txt` and `dictionaries/french.txt`: concrete TSV examples.
+- `dictionaries/english.tsv` and `dictionaries/french.tsv`: concrete TSV examples.
