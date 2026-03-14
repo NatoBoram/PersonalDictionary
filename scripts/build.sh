@@ -23,6 +23,8 @@ if ! command -v 7z >/dev/null; then
 	exit 1
 fi
 
+rm -rf "$output_name"
+
 tmp_dir=$(mktemp -d)
 cleanup() {
 	rm -rf "$tmp_dir"
@@ -32,4 +34,4 @@ trap cleanup EXIT INT TERM
 cp "$dictionary_path" "$tmp_dir/dictionary.txt"
 (cd "$tmp_dir" && 7z a -bt -mx9 -tzip "$output_path" dictionary.txt)
 
-echo "Created $output_name from $dictionary_path"
+7z l "$output_name"
