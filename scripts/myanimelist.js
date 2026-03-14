@@ -1,9 +1,12 @@
-/** https://myanimelist.net/animelist/NatoBoram */
+/**
+ * @see https://myanimelist.net/animelist/NatoBoram
+ * @see https://myanimelist.net/mangalist/NatoBoram
+ *
+ * @module
+ */
 ;(() => {
 	/** @type NodeListOf<HTMLAnchorElement> */
-	const anchors = document.querySelectorAll(
-		"td.data.title.clearfix a.link.sort",
-	)
+	const anchors = document.querySelectorAll("td.data.title a.link.sort")
 
 	const tsv = Array.from(anchors)
 		.map((a) => `\t${a.textContent}\t`)
