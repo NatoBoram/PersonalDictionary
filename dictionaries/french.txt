@@ -23,18 +23,55 @@
 	surprenamment	fr-CA	
 	t'es	fr-CA	
 	taponne	fr-CA	
+aprem	après-mini	fr-CA	
+auj	aujourd'hui	fr-CA	
+bcp	beaucoup	fr-CA	
+bjr	bonjour	fr-CA	
 ca	ça	fr-CA	
 ça a	ç'a	fr-CA	
+cest	c'est	fr-CA	
+chui	j'suis	fr-CA	
+cpas	c'pas	fr-CA	
+cte	cette	fr-CA	
 deja	déjà	fr-CA	
+derien	de rien	fr-CA	
+dsl	désolé	fr-CA	
+jarrive	j'arrive	fr-CA	
+jcomprends	j'comprends	fr-CA	
+jcrois	j'crois	fr-CA	
 jme	j'me	fr-CA	
+jpense	j'pense	fr-CA	
+jre	j'reviens	fr-CA	
+jreviens	j'reviens	fr-CA	
+jsais	j'sais	fr-CA	
+jsp	j'sais pas	fr-CA	
+jsuis	j'suis	fr-CA	
+jtaime	je t'aime	fr-CA	
+jtappelle	je t'appelle	fr-CA	
 jte	j'te	fr-CA	
+jtecris	je t'écris	fr-CA	
 jtm	je t'aime	fr-CA	
 kek	quelques	fr-CA	
+nn	non	fr-CA	
+pcq	parce que	fr-CA	
+pk	pourquoi	fr-CA	
 pr	peut-être	fr-CA	
 pu	plus	fr-CA	
+qd	quand	fr-CA	
+qqchose	quelque chose	fr-CA	
 qqn	quelqu'un	fr-CA	
+qqpart	quelque part	fr-CA	
 questce	qu'est-ce	fr-CA	
+rdv	rendez-vous	fr-CA	
 slt	salut	fr-CA	
 stp	s'il te plaît	fr-CA	
+stun	c'est un	fr-CA	
+stune	c'est une	fr-CA	
 svp	s'il vous plaît	fr-CA	
+taleur	tout à l'heure	fr-CA	
+tantot	tantôt	fr-CA	
 tkt	t'inquiète	fr-CA	
+tt	tout	fr-CA	
+vrm	vraiment	fr-CA	
+yaura	il y aura	fr-CA	
+yavait	il y avait	fr-CA	

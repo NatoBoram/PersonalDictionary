@@ -6,5 +6,8 @@
 	"files.insertFinalNewline": false,
 	"files.trimFinalNewlines": true,
 	"files.trimTrailingWhitespace": false,
+	"github.copilot.enable": {
+		"plaintext": false
+	},
 	"hungryDelete.keepOneSpace": false
 }
