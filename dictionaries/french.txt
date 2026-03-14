@@ -1,9 +1,12 @@
 # Gboard Dictionary version:2
 # Gboard Dictionary format:shortcut	word	language_tag	pos_tag
 	complimarde	fr-CA	
+	d'acétaminophène	fr-CA	
 	décaféiné	fr-CA	
 	dégueuler	fr-CA	
 	déprioriser	fr-CA	
+	épousseter	fr-CA	
+	étasunien	fr-CA	
 	intimidateur	fr-CA	
 	l'achèterais fr-CA	
 	l'essayes	fr-CA	
@@ -26,5 +29,12 @@ deja	déjà	fr-CA
 jme	j'me	fr-CA	
 jte	j'te	fr-CA	
 jtm	je t'aime	fr-CA	
+kek	quelques	fr-CA	
+pr	peut-être	fr-CA	
 pu	plus	fr-CA	
+qqn	quelqu'un	fr-CA	
 questce	qu'est-ce	fr-CA	
+slt	salut	fr-CA	
+stp	s'il te plaît	fr-CA	
+svp	s'il vous plaît	fr-CA	
+tkt	t'inquiète	fr-CA	
