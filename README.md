@@ -1,5 +1,7 @@
 # PersonalDictionary
 
+[![Node.js CI](https://github.com/NatoBoram/PersonalDictionary/actions/workflows/node.js.yaml/badge.svg)](https://github.com/NatoBoram/PersonalDictionary/actions/workflows/node.js.yaml)
+
 A collection of dictionaries that can be imported into Gboard.
 
 ## How to use
