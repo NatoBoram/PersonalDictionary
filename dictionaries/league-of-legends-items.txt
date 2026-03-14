@@ -17,6 +17,7 @@
 	Archangel's Staff		
 	Archangel's Staff (Quick Charge)		
 	Ardent Censer		
+	Ataraxia		
 	Athene's Unholy Grail		
 	Atma's Impaler		
 	Atma's Reckoning		
@@ -35,6 +36,7 @@
 	Berserker's Greaves		
 	Bilgewater Cutlass		
 	Black Cleaver		
+	Black Hole Gauntlet		
 	Black Mist Scythe		
 	Black Spear		
 	Blackfire Torch		
@@ -42,8 +44,9 @@
 	Blasting Wand		
 	Blighting Jewel		
 	Blink Dagger		
-	Bloodletter's Veil		
+	Bloodletter's Curse		
 	Bloodrazor		
+	Bloodsong		
 	Bloodthirster		
 	Bloodward		
 	Blue Pill		
@@ -52,19 +55,24 @@
 	Boots of Mobility		
 	Boots of Speed		
 	Boots of Swiftness		
+	Bounty of Worlds		
 	Bramble Vest		
 	Brawler's Gloves		
 	Breathstealer		
 	Broken Stopwatch		
 	Bulwark of the Mountain		
 	Caesura		
+	Cappa Juice		
 	Captain		
 	Catalyst of Aeons		
 	Catalyst the Protector		
 	Caulfield's Warhammer		
 	Ceaseless Hunger		
 	Celestial Eye		
+	Celestial Opposition		
+	Certainty		
 	Chain Vest		
+	Chalice of Blessing		
 	Chalice of Harmony		
 	Chempunk Chainsword		
 	Chemtech Putrifier		
@@ -72,14 +80,17 @@
 	Circlet of the Iron Solari		
 	Cloak and Dagger		
 	Cloak of Agility		
+	Cloak of Starry Night		
 	Cloak of Stars		
 	Cloth Armor		
-	Commencing Stopwatch		
 	Control Ward		
 	Corrupting Potion		
 	Cosmic Drive		
 	Cosmic Shackle		
 	Crown of the Shattered Queen		
+	Cruelty		
+	Cry of the Shrieking City		
+	Cryptbloom		
 	Crystalline Bracer		
 	Crystalline Flask		
 	Cull		
@@ -87,15 +98,22 @@
 	Dark Matter Scythe		
 	Dark Seal		
 	Dark Star Sigil		
+	Darksteel Talons		
+	Dawncore		
+	Daybreak		
 	Dead Man's Plate		
 	Death's Dance		
 	Death's Daughter		
 	Deathfire Grasp		
+	Decapitator		
 	Defense Upgrades		
 	Deicide		
+	Demon King's Crown		
 	Demonic Embrace		
 	Dervish Blade		
+	Detonation Orb		
 	Devourer		
+	Diamond-Tipped Spear		
 	Distortion		
 	Divine Sunderer		
 	Doran's Blade		
@@ -105,14 +123,20 @@
 	Doran's Lost Shield		
 	Doran's Ring		
 	Doran's Shield		
+	Dragonheart		
 	Draktharr's Shadowcarver		
+	Dream Maker		
 	Dreamshatter		
 	Duskblade of Draktharr		
+	Echoes of Helia		
 	Eclipse		
+	Edge of Finality		
 	Edge of Night		
 	Eleisa's Miracle		
 	Elixir of Agility		
+	Elixir of Avarice		
 	Elixir of Brilliance		
+	Elixir of Force		
 	Elixir of Fortitude		
 	Elixir of Iron		
 	Elixir of Ruin		
@@ -121,7 +145,9 @@
 	Elixir of Wrath		
 	Emberknife		
 	Emblem of Valor		
+	Empyrean Promise		
 	Enchantment: Homeguard		
+	Enmity of the Masses		
 	Entropy		
 	Entropy Field		
 	Equinox		
@@ -134,6 +160,7 @@
 	Evolution: Gravity Storm		
 	Evolution: Power Storm		
 	Executioner's Calling		
+	Experimental Hexplate		
 	Explorer's Ward		
 	Eye of Ascension		
 	Eye of Frost		
@@ -142,18 +169,23 @@
 	Eye of the Equinox		
 	Eye of the Herald		
 	Eye of the Oasis		
+	Eye of the Storm		
 	Eye of the Watchers		
 	Face of the Mountain		
 	Faerie Charm		
 	Farsight Alteration		
 	Farsight Orb		
+	Fated Ashes		
 	Feral Flare		
 	Fiendish Codex		
 	Fimbulwinter		
 	Fire at Will		
 	Flash Zone		
 	Flesheater		
+	Flicker		
 	Forbidden Idol		
+	Force of Arms		
+	Force of Entropy		
 	Force of Nature		
 	Forgefire Cape		
 	Forgefire Crest		
@@ -165,15 +197,18 @@
 	Frozen Fist		
 	Frozen Heart		
 	Frozen Mallet		
+	Fulmination		
 	Furor		
 	Galeforce		
+	Gambler's Blade		
 	Gargoyle Stoneplate		
-	Ghostwalkers		
+	Ghostcrawlers		
 	Giant Slayer		
 	Giant's Belt		
 	Glacial Buckler		
 	Glacial Shroud		
 	Globe of Trust		
+	Glowing Mote		
 	Golden Transcendence		
 	Goredrinker		
 	Gouging Blade		
@@ -185,13 +220,18 @@
 	Greater Vision Totem		
 	Grez's Spectral Lantern		
 	Guardian Angel		
+	Guardian's Amulet		
 	Guardian's Blade		
+	Guardian's Dirk		
 	Guardian's Hammer		
 	Guardian's Horn		
 	Guardian's Orb		
+	Guardian's Shroud		
 	Guinsoo's Rageblade		
 	Gusto		
+	Gustwalker Hatchling		
 	Hailblade		
+	Hamstringer		
 	Harrowing Crescent		
 	Haunting Guise		
 	Head of Kha'Zix		
@@ -199,8 +239,13 @@
 	Heart of Gold		
 	Heart of Targon		
 	Hearthbound Axe		
+	Heartsteel		
+	Heavensfall		
+	Hellfire Hatchet		
+	Hemomancer's Helm		
 	Hex Core mk-1		
 	Hex Core mk-2		
+	Hexbolt Companion		
 	Hexdrinker		
 	Hexdrinker (old)		
 	Hextech Alternator		
@@ -209,7 +254,10 @@
 	Hextech Protobelt-01		
 	Hextech Revolver		
 	Hextech Rocketbelt		
+	Hollow Radiance		
+	Hope Adrift		
 	Horizon Focus		
+	Hubris		
 	Hullbreaker		
 	Hunter's Machete		
 	Hunter's Potion		
@@ -221,36 +269,54 @@
 	Immortal Shieldbow		
 	Imperial Mandate		
 	Infernal Mask		
+	Infinite Convergence		
 	Infinity Edge		
 	Infinity Force		
 	Innervating Locket		
 	Ionian Boots of Lucidity		
 	Ionic Spark		
 	Ironspike Whip		
+	Jak'Sho, The Protean		
 	Jaurim's Fist		
 	Juggernaut		
+	Juice of Haste		
+	Juice of Power		
+	Juice of Vitality		
+	Kaenic Rookern		
 	Kage's Lucky Pick		
 	Kindlegem		
+	Kinkou Jitte		
 	Kircheis Shard		
 	Kitae's Bloodrazor		
 	Knight's Vow		
 	Kraken Slayer		
 	Last Whisper		
 	Leeching Leer		
+	Legendary Assassin Item		
+	Legendary Fighter Item		
+	Legendary Mage Item		
+	Legendary Marksman Item		
+	Legendary Support Item		
+	Legendary Tank Item		
 	Leviathan		
+	Leviathan (old)		
 	Liandry's Anguish		
 	Liandry's Lament		
 	Liandry's Torment		
 	Lich Bane		
 	Lifeline		
+	Lifewell Pendant		
 	Lightbringer		
 	Lightning Rod		
+	Lightning Rod (old)		
 	Locket of the Iron Solari		
 	Long Sword		
 	Looted Oracle's Extract		
 	Lord Dominik's Regards		
 	Lord Van Damm's Pillager		
 	Lost Chapter		
+	Lucky Dice		
+	Luden's Companion		
 	Luden's Echo		
 	Luden's Echo (3286)		
 	Luden's Pulse		
@@ -259,6 +325,7 @@
 	Madred's Razors		
 	Magus		
 	Malady		
+	Malignance		
 	Mana Manipulator		
 	Mana Potion		
 	Manamune		
@@ -281,13 +348,16 @@
 	Mobility Boots		
 	Molten Edge		
 	Moonflair Spellblade		
+	Moonflair Spellblade		
 	Moonstone Renewer		
 	Morellonomicon		
 	Mortal Reminder		
+	Mosstomper Seedling		
 	Muramana		
 	Muramana (Quick Charge)		
 	Murksphere		
 	Nashor's Tooth		
+	Navori Flickerblade		
 	Navori Quickblades		
 	Needlessly Large Rod		
 	Negatron Cloak		
@@ -306,6 +376,7 @@
 	Ohmwrecker		
 	Ohmwrecker (Turret Item)		
 	Oponn's Razor		
+	Opportunity		
 	Oracle Lens		
 	Oracle's Elixir		
 	Oracle's Extract		
@@ -320,6 +391,7 @@
 	Pendant of Zephiris		
 	Perfect Hex Core		
 	Perfectly Timed Stopwatch		
+	Perplexity		
 	Phage		
 	Phantom Dancer		
 	Philosopher's Medallion		
@@ -336,16 +408,21 @@
 	Port Pad		
 	Pox Arcana		
 	Pridestalker's Blade		
+	Primordial Dawn		
 	Priscilla's Blessing		
+	Prismatic Item		
+	Profane Hydra		
 	Prospector's Blade		
 	Prospector's Ring		
 	Prototype Hex Core		
 	Prowler's Claw		
 	Puppeteer		
+	Pyromancer's Cloak		
 	Quicksilver Sash		
 	Quill Coat		
 	Rabadon's Deathcap		
 	Rabadon's Deathcrown		
+	Radiant Virtue		
 	Rageknife		
 	Rainbow Snax Party Pack!		
 	Raise Morale		
@@ -354,9 +431,13 @@
 	Rapid Firecannon		
 	Raptor Cloak		
 	Ravenous Hydra		
+	Reality Fracture		
+	Reaper's Toll		
+	Rectrix		
 	Recurve Bow		
 	Redemption		
 	Refillable Potion		
+	Regicide		
 	Regrowth Pendant		
 	Reinforced Armor (Turret Item)		
 	Rejuvenation Bead		
@@ -367,33 +448,39 @@
 	Remnant of the Aspect		
 	Remnant of the Watchers		
 	Renewal Tunic		
+	Reverberation		
 	Riftmaker		
 	Righteous Glory		
 	Rimeforged Grasp		
 	Rite of Ruin		
 	Rod of Ages		
-	Rod of Ages (Quick Charge)		
 	Ruby Crystal		
 	Ruby Sightstone		
 	Runaan's Hurricane		
+	Runecarver		
 	Runeglaive		
 	Runegorger		
 	Runesteel Spaulders		
 	Runic Bulwark		
+	Runic Compass		
 	Runic Echoes		
 	Rylai's Crystal Scepter		
 	Sage's Ring		
 	Salvation		
 	Sandshrike's Claw		
 	Sanguine Blade		
+	Sanguine Gift		
 	Sapphire Crystal		
 	Sated Devourer		
 	Scarecrow Effigy		
+	Scorchclaw Pup		
+	Scout's Slingshot		
 	Scroll of Teleportation		
 	Scrying Orb		
 	Seat of Command		
 	Seeker's Armguard		
 	Seer Stone		
+	Seething Sorrow		
 	Seraph's Embrace		
 	Seraph's Embrace (Quick Charge)		
 	Serpent's Fang		
@@ -401,8 +488,11 @@
 	Serylda's Grudge		
 	Shadowflame		
 	Shard of True Ice		
+	Shattered Armguard		
 	Sheen		
 	Shield Totem		
+	Shield of Molten Stone		
+	Shojin's Resolve		
 	Shurelya's Battlesong		
 	Shurelya's Requiem		
 	Shurelya's Reverie		
@@ -414,6 +504,7 @@
 	Skirmisher's Sabre		
 	Slightly Magical Boots		
 	Sly Sack of Gold		
+	Solstice Sleigh		
 	Sorcerer's Shoes		
 	Soul Anchor		
 	Soul Shroud		
@@ -425,26 +516,30 @@
 	Spellbinder		
 	Spellbreaker		
 	Spellthief's Edge		
+	Spirit Stone		
+	Spirit Visage		
 	Spirit of the Ancient Golem		
 	Spirit of the Elder Lizard		
 	Spirit of the Spectral Wraith		
-	Spirit Stone		
-	Spirit Visage		
 	Staff of Flowing Water		
 	Stalker's Blade		
 	Starcaster		
 	Stark's Fervor		
+	Stat Bonus		
 	Stat-Stick of Stoicism		
 	Statikk Shiv		
 	Stealth Ward		
 	Stealth Ward (Item)		
 	Steel Shoulderguards		
+	Steel Sigil		
 	Sterak's Gage		
 	Stinger		
 	Stirring Wardstone		
 	Stopwatch		
 	Stormrazor		
+	Stormsurge		
 	Stridebreaker		
+	Sundered Sky		
 	Sunfire Aegis		
 	Sunfire Cape		
 	Super Mech Armor		
@@ -452,20 +547,28 @@
 	Super Spicy Snax		
 	Sweeping Lens		
 	Swindler's Orb		
+	Sword of Blossoming Dawn		
 	Sword of the Divine		
 	Sword of the Occult		
+	Swordnado		
+	Symbiotic Soles		
+	Synchronized Souls		
 	Syzygy		
+	T.U.R.B.O.		
 	Talisman of Ascension		
 	Targon's Brace		
 	Targon's Buckler		
 	Tear of the Goddess		
 	Tear of the Goddess (Quick Charge)		
 	Teleport		
+	Terminus		
+	The Baron's Gift		
 	The Brutalizer		
 	The Collector		
 	The Golden Spatula		
 	The Hex Core		
 	The Rose's Pride		
+	The Unspoken Parasite		
 	Thornmail		
 	Tiamat		
 	Timeworn Ancient Coin		
@@ -483,20 +586,25 @@
 	Tower: Beam of Ruination		
 	Tower: Storm Bulwark		
 	Tracker's Knife		
+	Trailblazer		
 	Travel Size Elixir of Iron		
 	Travel Size Elixir of Sorcery		
 	Travel Size Elixir of Wrath		
 	Trickster's Glass		
 	Trinity Force		
 	Trinity Fusion		
+	Tunneler		
 	Turbo Chemtank		
 	Turbocharged Hexperiment		
 	Turret Plating		
+	Twilight's Edge		
+	Twin Mask		
 	Twin Shadows		
 	Twin Shadows (3290)		
 	Typhoon		
 	Typhoon Claws		
 	Umbral Glaive		
+	Unending Despair		
 	Upgraded Aeropack		
 	Vampiric Scepter		
 	Vanguard		
@@ -506,6 +614,7 @@
 	Vigilant Wardstone		
 	Vision Ward		
 	Void Staff		
+	Voltaic Cyclosword		
 	Warden's Eye		
 	Warden's Mail		
 	Warmog's Armor		
@@ -519,11 +628,17 @@
 	Wizard's Regalia		
 	Wooglet's Witchcap		
 	Wooglet's Witchcrown		
+	Wordless Promise		
+	World Atlas		
 	Wriggle's Lantern		
 	Wyrmfallen Sacrifice		
 	Yordle Stompers		
 	Youmuu's Ghostblade		
+	Youmuu's Wake		
 	Youmuu's Wraithblade		
+	Your Cut		
+	Yun Tal Wildarrows		
+	Zaz'Zak's Realmspike		
 	Zeal		
 	Zeke's Convergence		
 	Zeke's Harbinger		

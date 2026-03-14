@@ -5,17 +5,21 @@
 	Akali		
 	Akshan		
 	Alistar		
+	Ambessa		
 	Amumu		
 	Anivia		
 	Annie		
 	Aphelios		
 	Ashe		
 	Aurelion Sol		
+	Aurora		
 	Azir		
 	Bard		
+	Bel'Veth		
 	Blitzcrank		
 	Brand		
 	Braum		
+	Briar		
 	Caitlyn		
 	Camille		
 	Cassiopeia		
@@ -41,6 +45,7 @@
 	Gwen		
 	Hecarim		
 	Heimerdinger		
+	Hwei		
 	Illaoi		
 	Irelia		
 	Ivern		
@@ -50,6 +55,7 @@
 	Jayce		
 	Jhin		
 	Jinx		
+	K'Sante		
 	Kai'Sa		
 	Kalista		
 	Karma		
@@ -75,14 +81,18 @@
 	Malzahar		
 	Maokai		
 	Master Yi		
+	Mel		
+	Milio		
 	Miss Fortune		
 	Mordekaiser		
 	Morgana		
+	Naafiri		
 	Nami		
 	Nasus		
 	Nautilus		
 	Neeko		
 	Nidalee		
+	Nilah		
 	Nocturne		
 	Nunu & Willump		
 	Olaf		
@@ -115,6 +125,7 @@
 	Sion		
 	Sivir		
 	Skarner		
+	Smolder		
 	Sona		
 	Soraka		
 	Swain		
@@ -151,7 +162,9 @@
 	Yasuo		
 	Yone		
 	Yorick		
+	Yunara		
 	Yuumi		
+	Zaahen		
 	Zac		
 	Zed		
 	Zeri		
