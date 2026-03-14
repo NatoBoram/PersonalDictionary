@@ -1,0 +1,36 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+      timezone: America/Toronto
+    commit-message:
+      prefix: "⬆️ "
+    groups:
+      patch:
+        update-types:
+          - patch
+      minor-development:
+        update-types:
+          - minor
+        dependency-type: development
+      minor-production:
+        update-types:
+          - minor
+        dependency-type: production
+      prettier:
+        patterns:
+          - "*prettier*"
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+      timezone: America/Toronto
+    commit-message:
+      prefix: "⬆️ "
+    groups:
+      actions:
+        patterns:
+          - actions/*
