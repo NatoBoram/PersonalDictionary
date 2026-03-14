@@ -28,6 +28,8 @@
 	"repository": "github:NatoBoram/PersonalDictionary",
 	"scripts": {
 		"build": "./scripts/build.sh",
+		"build:all": "./scripts/build_all.sh",
+		"clean": "rm -rf node_modules PersonalDictionary-*.zip",
 		"format": "prettier --write .",
 		"lint": "prettier --check ."
 	},
