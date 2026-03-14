@@ -7,22 +7,20 @@ if [ "$#" -ne 1 ]; then
 	exit 0
 fi
 
-dictionary_name=$1
-dictionary_path="dictionaries/$dictionary_name.txt"
-
-output_name='PersonalDictionary-1.zip'
-output_path="$(pwd)/$output_name"
-
-if [ ! -f "$dictionary_path" ]; then
-	echo "Dictionary not found: $dictionary_path" >&2
-	exit 1
-fi
-
 if ! command -v 7z >/dev/null; then
 	echo "7z: command not found" >&2
 	exit 1
 fi
 
+dictionary_name=$1
+dictionary_path="dictionaries/$dictionary_name.txt"
+if [ ! -f "$dictionary_path" ]; then
+	echo "Dictionary not found: $dictionary_path" >&2
+	exit 1
+fi
+
+output_name="PersonalDictionary-$dictionary_name.zip"
+output_path="$(pwd)/$output_name"
 rm -rf "$output_name"
 
 tmp_dir=$(mktemp -d)
