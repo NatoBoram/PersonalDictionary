@@ -1,413 +1,414 @@
-# Gboard Dictionary version:1
-	0-saiji Start Dash Monogatari	
-	29-sai Dokushin wa Isekai de Jiyuu ni Ikita......katta.	
-	4 Cut Hero	
-	7th	
-	A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.	
-	ATM Ojisan: Isekai de Moteki ga Tomaranai!	
-	Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!	
-	Akuma Koujo	
-	Akutou Ikka no Manamusume, Tensei-saki mo Otome Game no Gokudou Reijou deshita. Saijoukyuu Rank no Akuyaku-sama, Sono Dekiai wa Fuyou desu! @comic	
-	Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen	
-	Akuyaku Reijou Route ga Nai nante, Dare ga Itta no?	
-	Akuyaku Reijou Tensei Ojisan	
-	Akuyaku Reijou ga Sei Heroine wo Kudoki Otosu Hanashi.	
-	Akuyaku Reijou ni Narimashita.	
-	Akuyaku Reijou no Naka no Hito: Danzai sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu	
-	Akuyaku Reijou tte Nani wo Sureba Iin dakke?	
-	Akuyaku Reijou wa Heroine wo Ijimeteiru Baai dewa Nai	
-	Akuyaku Reijou, Ore	
-	Albert-ke no Reijou wa Botsuraku wo Goshomou desu	
-	Android wa Keiken Ninzuu ni Hairimasu ka??	
-	Ansatsu Skill de Isekai Saikyou: Renkinjutsu to Ansatsujutsu wo Kiwameta Ore wa, Sekai wo Kage kara Shihai suru	
-	Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga	
-	Arifureta Shokugyou de Sekai Saikyou	
-	Asa made Jugyou Chu!	
-	Astral Online: Maou no Noroi de Saikyou Bishoujo ni Natta Ore, Saijakushoku da ga Cheat Skill de Chou Seichou shite Musou suru	
-	Ato wa Gojiyuu ni Douzo! Tutorial de Kamisama ga Last Boss Taoshichatta node, Watashi wa Suki Houdai Ikiteiku	
-	Beni Tsubaki	
-	Berserk	
-	Biryuu Enshoutan: Jikokouteikan ga Gekihiku na Dragon-kyuu Bishoujo Maou wo, Yuusha ga Icha Love de Taijisuru Ohanashi	
-	Blade & Bastard	
-	Bocchi Tenseiki	
-	Boku Igai Zennin Tenseisha ka yo	
-	Boku ga Yuusha de Maou mo Boku de	
-	Boku no Kanojo ga Majimesugiru Shojo Bitch na Ken	
-	Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san	
-	Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san	
-	Boushokuki no Ken	
-	Buta Koushaku ni Tensei shita kara, Kondo wa Kimi ni Suki to Iitai	
-	Buta no Fukushuu	
-	Cheat Skill "Shisha Sosei" ga Kakusei shite, Inishie no Maougun wo Fukkatsu sasete Shimaimashita: Daremo Shinasenai Saikyou Healer	
-	Chibikko Kenja, Lv.1 kara Isekai de Ganbarimasu!	
-	Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.	
-	Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin	
-	Chounin A wa Akuyaku Reijou wo Doushitemo Sukuitai: Dobu to Sora to Koori no Himegimi	
-	Class Teni ni Makikomareta Conveni Tenin no Ossan, Yuusha ni wa Hitsuyou Nakatta Amarimono Skill wo Kushi shite Saikyou to Naru you desu.	
-	Daikenja Riddle no Jikan Gyakkou	
-	Dainana Maouji Jilbagias no Maou Keikokuki	
-	Danshi Kinsei Game Sekai de Ore ga Yarubeki Yuiitsu no Koto: Yuri no Aida ni Hasamaru Otoko toshite Tensei shiteshimaimashita	
-	Danshi Koukousei wa Isekai de JK ni Natta	
-	Danshi Koukousei, Otome Game no Akuyaku Reijou ni Tensei suru.	
-	Danzai sareta Tensei Seijo wa, Akuyaku Reijou no Michi wo Iku!	
-	Dappou Tamer no Nariagari Boukentan: S-Rank Bishoujo Boukensha ga Ore no Juuma ni Natteimasu the Comic	
-	Dark Summoner to Dekiteiru	
-	Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita @comic	
-	Destiny Unchain Online: Kyuuketsuki Shoujo to Natte, Yagate "Aka no Maou" to Yobareru you ni Narimashita	
-	Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki	
-	Doryoku Shisugita Sekai Saikyou no Butouka wa, Mahou Sekai wo Yoyuu de Ikinuku.	
-	Doumo, Yuusha no Chichi desu. Kono Tabi wa Gusoku ga Gomeiwaku wo Kakete, Moushiwake Arimasen.	
-	Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou suru!	
-	Dungeon ni Hisomu Yandere na Kanojo ni Ore wa Nando mo Korosareru	
-	Dungeon-gurashi no Motoyuusha the Comic	
-	Dungeon-tou de Yadoya wo Yarou!: Souzou Mahou wo Moratta Ore no Hosoude Hanjouki	
-	Elf Tensei kara no Cheat Kenkokuki	
-	Elf-zuma to Hajimeru Yuukyuu no Tabi: Densetsu no Yuusha, Aisuru Elf to Tomo ni 100-nen Mae ni Sukutta Sekai wo Tabisuru	
-	Eroge no Sekai de Slow Life: Issho ni Isekai Teni shitekita Yarisaa no Daigakusei-tachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu	
-	Eroi Koto Suru Tame ni Kyonyuu Bishoujo Dorei wo Katta Hazu ga, Oshishou-sama to Shitawarete Omotta Toori ni Ikanaku Naru Hanashi	
-	Fuguushoku to Baka ni Saremashita ga, Jissai wa Sorehodo Waruku Arimasen?	
-	Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru	
-	Futoku no Guild	
-	Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi	
-	Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu	
-	Gakeppuchi Reijou wa Kurokishi-sama wo Horesasetai!	
-	Gakuen Mono no Otome Game no Sekai ni Tensei shita kedo, Cheat-mochi no Haikei Danshi Seito Datta you desu.	
-	Gal Maid to Akuyaku Reijou: Ojousama no Happy End shika Katan!	
-	Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai	
-	Game Sekai no Mob Akuyaku ni Tensei shita node Last Boss wo Mezashitemita: Nazeka Rekidai Saikou no Meikun to Agamerareteirun desu ga, Dareka Riyuu wo Oshiete Kudasai!	
-	Garbage Brave: Isekai ni Shoukan sare Suterareta Yuusha no Fukushuu Monogatari	
-	Genkai Dungeon no Hanshoku Jijou	
-	Genkai Level 1 kara no Nariagari: Saijaku Level no Ore ga Isekai Saikyou ni Naru made	
-	Genkai OL-san wa Akuyaku Reijou-sama ni Tsukaetai	
-	Goshujinsama to Yuku Isekai Survival! The Comic	
-	Grand Blue	
-	Gyakkou shita Akuyaku Reijou wa, Nazeka Maryoku wo Ushinatta node Shinsou no Reijou ni Narimasu: Seijo Anna no Monogatari	
-	Hachi-nan tte, Sore wa Nai deshou!	
-	Hakui no Eiyuu	
-	Hangyaku no Yuusha: Skill wo Tsukatte Haraguro Oujo no Kokoro to Karada wo Shouaku seyo	
-	Harem yori Heion wo! Isekai de Shizuka ni NEET Hime sasete Kure	
-	Hazure Aka Madoushi wa Kenja Time ni Musou suru	
-	Hazure Skill de SSS-Rank Makyou wo Ikinuitara, Sekai Saikyou no Renkinjutsushi ni Natteita: Kaiteki Kyoten wo Tsukutte Nakama to Tanoshii Isekai Life	
-	Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made	
-	Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru	
-	Henkyou Mob Kizoku no Uchi ni Totsuidekita Akuyaku Reijou ga, Mechakucha Dekiru Ii Yome Nanda ga?	
-	Henkyougurashi no Maou, Tensei shite Saikyou no Majutsushi ni Naru	
-	Hikikomari Kyuuketsuki no Monmon	
-	Hisshou Dungeon Unei Houhou	
-	Hitoribocchi no Isekai Kouryaku	
-	Hitozuma Medusa-san to no Nettori Seikatsu	
-	Holy Brownie	
-	Homeless Tensei: Isekai de Jiyuu Sugiru Jikyuu Jisoku Seikatsu	
-	How Did I Become the Princess?	
-	Ie ga Moete Jinsei Doudemo Yoku Natta kara Nokotta Nakenashi no Kane de Dark Elf no Dorei wo Katta.	
-	Ikusei Skill wa Mou Iranai to Yuusha Party wo Kaikosareta node, Taishoku Kingawari ni Moratta "Ryouchi" wo Tsuyoku shitemiru	
-	Isekai Arigatou	
-	Isekai Cheat Survival Meshi	
-	Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou	
-	Isekai Kenkokuki	
-	Isekai Kokka Alchimaira: Saijaku no Ou to Musou no Gunzei	
-	Isekai Mahou wa Okureteru!	
-	Isekai Majutsushi wa Mahou wo Tonaenai the Comic	
-	Isekai Maou to Shoukan Shoujo no Dorei Majutsu	
-	Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku	
-	Isekai Monster Breeder: Cheat wa Aru kedo, Nonbiri Ikusei Shiteimasu	
-	Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku	
-	Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou	
-	Isekai Nonbiri Nouka	
-	Isekai Rakuraku Survival: Seizon Skill Kyousha no Ore ga Bishoujo Yonin to Kurasu Mujintou Seikatsu	
-	Isekai Saikou no Kizoku, Harem wo Fuyasu hodo Tsuyokunaru	
-	Isekai Shihai no Skill Taker: Zero kara Hajimeru Dorei Harem	
-	Isekai Shikkaku	
-	Isekai Sniper wa Onna Senshi no Mofumofu Pet	
-	Isekai Tensei no Boukensha	
-	Isekai Yurutto Survival Seikatsu: Gakkou no Mina to Isekai no Mujintou ni Teni shita kedo Ore dake Rakushou desu	
-	Isekai de Mizu no Daiseirei Yattemasu.	
-	Isekai de Saikyou no Tsue ni Tensei shita Ore ga Iyagaru Shoujo wo Muriyari Mahou Shoujo ni P suru!	
-	Isekai de Skill wo Kaitai shitara Cheat na Yome ga Zoushoku Shimashita: Gainen Kousa no Structure	
-	Isekai de Te ni Ireta Seisan Skill wa Saikyou Datta you desu.	
-	Isekai de Tochi wo Katte Noujou wo Tsukurou	
-	Isekai de Zenra Yuusha to Yobanaide	
-	Isekai demo Fuuzokujou Yattemita	
-	Isekai ni Kita Boku wa Kiyoubinbou de Subayasa Dayori na Tabi wo Suru	
-	Isekai ni Otosareta... Jouka wa Kihon! @comic	
-	Isekai ni Shoukan saretan dakedo, Nandemo Kireteshimau Kennou wo Te ni Ireta node Easy Mode deshita ​	
-	JK Haru wa Isekai de Shoufu ni Natta	
-	Jaryuu Tensei	
-	Jashin Kankin Harem de Isekai Seifuku!	
-	Jichou Shinai Motoyuusha no Tsuyokute Tanoshii New Game	
-	Jigoku no Gouka de Yakare Tsuzuketa Shounen. Saikyou no Honootsukai to Natte Fukkatsu suru.	
-	Jijo nanoni... Seiken wo Nuite Shimatta!	
-	Jikan Teishi Yuusha	
-	Jimi na Kensei wa Soredemo Saikyou desu	
-	Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan	
-	Joou Heika no Isekai Strategy	
-	Just Read Me Already!	
-	Kaettekita Motoyuusha	
-	Kage no Jitsuryokusha ni Naritakute!	
-	Kaifuku Jutsushi no Yarinaoshi	
-	Kaiten no Albus	
-	Kajiya de Hajimeru Isekai Slow Life	
-	Kami no Techigai de Shindara Cheat Gun Tsumi de Isekai ni Hourikomaremashita	
-	Kankin Ou	
-	Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru	
-	Kanzen Kaihi Healer no Kiseki	
-	Katainaka no Ossan, Kensei ni Naru: Tada no Inaka no Kenjutsu Shihan Datta noni, Taisei shita Deshi-tachi ga Ore wo Houttekurenai Ken	
-	Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku Zamaa	
-	Kekkon Yubiwa Monogatari	
-	Ken to Tiara to High Heels: Koushaku Reijou ni wa Eiyuu no Tamashii ga Yadoru @comic	
-	Kenja no Mago	
-	Kenseijo Adel no Yarinaoshi: Kako ni Modotta Saikyou Kensei, Hime wo Sukuu Tame ni Seijo to Naru	
-	Kichiku Eiyuu	
-	Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen	
-	Kiraware Yuusha wo Enjita Ore wa, Nazeka Last Boss ni Sukarete Issho ni Seikatsu shitemasu!	
-	Kirawaremono no Akuyaku Reisoku ni Tensei shita noni, Nazeka Mawari ga Houtteoite Kurenai	
-	Kitai no Akujo, Sandome no Jinsei de "Musai Munou" wo Tanoshimu	
-	Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.	
-	Kokoro no Koe ga Kikoeru Akuyaku Reijou wa, Kyou mo Koinu Denka ni Honrou sareru @comic	
-	Kondo koso Shiawase ni Narimasu!	
-	Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat	
-	Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu: Oishii Mono wo Tabesasete Oshare wo Sasete, Sekaiichi Shiawase na Shoujo ni Produce!	
-	Koujo Tensei: Densetsu no Daimadoushi (♂), Himekishi to Narite Densetsu no Reijou Kishidan wo Tsukuri Musou suru	
-	Kouritsuchuu Madoushi, Daini no Jinsei de Madou wo Kiwameru	
-	Koushaku Reijou ni Tensei shiteshimatta node, Mental Otome na Ore wa, Zenryoku de Onnanoko wo Tanoshimimasu	
-	Koushaku Reijou no Rouraku Mission: Maou to no Seiryaku Kekkon ga Jinrui Saigo no Kirifuda desu!... tte, Maou ga Onnanoko no Baai wa Dou Sureba Ii no desu ka!?	
-	Koushaku Reijou no Tashinami	
-	Kumo desu ga, Nani ka?	
-	Kuni wo Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou Shiteshimau. Jakushou Kokka ga Tairiku Saikyou no Ryuu no Rakuen ni Naru made	
-	Kuro no Shoukanshi	
-	Kuro no Souzou Shoukanshi: Tenseisha no Hangyaku	
-	Kuzulesse Oblige: Bishoujo Game Sekai no Kuzu Akuyaku ni Tensei shiteshimatta Ore wa, Gensaku Chishiki no Chikara de Doushitemo Mob Jinsei wo Tsukamitoritai	
-	Kyoukai Meikyuu to Ikai no Majutsushi	
-	Last Boss, Yametemita: Shujinkou ni Taosareta Furishite Jiyuu ni Ikitemita	
-	Level 1 no Saikyou Kenja: Noroi de Saikakyuu Mahou shika Tsukaenai kedo, Kami no Kanchigai de Mugen no Maryoku wo Te ni Ire Saikyou ni	
-	Live Dungeon!	
-	Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru	
-	Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life	
-	Magatsu Wanashi no Yuushagari	
-	Magical★Explorer: Eroge no Yuujin-Chara ni Tensei shita kedo, Game Chishiki Tsukatte Jiyuu ni Ikiru	
-	Mahou Shoujo ni Akogarete	
-	Majo no Geboku to Maou no Tsuno	
-	Majutsu Gakuin wo Shuseki de Sotsugyoushita Ore ga Boukensha wo Hajimeru no wa Sonna ni Okashii Darou ka	
-	Majutsu Guild Sousui: Umarekawatte Imasara Yarinaosu Nidome no Gakuin Seikatsu	
-	Makentsukai no Moto Shounenhei wa, Moto Tekikanbu no Oneesan to Issho ni Ikitai	
-	Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat	
-	Manadeshi ni Uragirarete Shinda Ossan Yuusha, Shijou Saikyou no Maou toshite Ikikaeru	
-	Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru	
-	Maou no Musume, Sugoku Choroi.	
-	Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?	
-	Maou to Ore no Hangyakuki	
-	Maou to Yuusha no Tatakai no Ura de	
-	Maou-sama ni Shoukan sareta kedo Kotoba ga Tsuujinai.	
-	Maou-sama no Machizukuri! Saikyou no Dungeon wa Kindai Toshi	
-	Maougun Saikyou no Majutsushi wa Ningen datta	
-	Maydare Tensei Monogatari: Kono Sekai de Ichiban Warui Majo	
-	Meccha Shoukan sareta Ken the Comic	
-	Meiou-sama ga Tooru no desu yo! @comic	
-	Mob Shisai dakedo, Kono Sekai ga Otome Game dato Kizuita node Heroine wo Ikusei shimasu	
-	Monmusugo! Honnyaku Skill de Saikyou Monmusu to Isekai Seikatsu	
-	Monster no Goshujinsama	
-	Monster no Niku wo Kutteitara Oui ni Tsuita Ken	
-	Moto Ansatsusha, Tensei shita Kizoku no Reijou ni Narimashita.	
-	Moto Isekai Tenisha Datta Kachou no Ojisan, Jinsei Nidome no Isekai wo Kakemawaru	
-	Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru the Comic	
-	Moto Sekai 1-i no Sub-Chara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!	
-	Moto, Ochikobore Koushaku Reijou desu. The Comic	
-	Motoyuusha wa Shizuka ni Kurashitai	
-	Mottomo Kirawareteiru Saikyou no Akuyaku ni Tensei	
-	Mukashi Yuusha de Ima wa Hone	
-	Murabito desu ga Nani ka?	
-	Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai	
-	Mushoku Tensei: Isekai Ittara Honki Dasu	
-	Mushoku Tensei: Isekai Ittara Honki Dasu	
-	Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga - Sainou Zero no Nariagari	
-	NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta	
-	Nadenade Skill de Maryoku Chuunyuu!!	
-	Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu	
-	Naze Boku no Sekai wo Daremo Oboeteinai no ka?	
-	Negai wo Kanaete Moraou to Akuma wo Shoukan shita kedo, Kawaikatta node Kekkon shimashita: Akuma no Niizuma	
-	Neta Character Tensei toka Anmari da! the Comic	
-	Netorare Manga no Kuzu Otoko ni Tensei shita Hazu ga Heroine ga Yottekuru Ken	
-	Netorare Tsuihou sareta Saikyou Kishi Danchou no Ossan, Katainaka de Eiyuu ni Matsuriagerareru	
-	Next Life	
-	Nido Tensei shita Shounen wa S-Rank Boukensha Toshite Heion ni Sugosu: Zense ga Kenja de Eiyuu Datta Boku wa Raise dewa Jimi ni Ikiru	
-	Nidome no Jinsei wo Isekai de	
-	Ninkyou Tensei: Isekai no Yakuza Hime	
-	Nise Seijo Kuso of the Year: Risou no Seijo? Zannen, Nise Seijo deshita!	
-	Nou Aru Ogre wa Tsuno wo Kakusu: Maou Kouho ni Erabareshi Moto Yuusha, Hito ni Bakete Tabi ni Deru	
-	Nougaku Hakase no Isekai Musou: Kinki no Chishiki de Kizuku Monster Musume Harem	
-	Nozoki Ana	
-	Nozomanu Fushi no Boukensha	
-	Ogre no Aniki to Dorei-chan	
-	Oidasaretara, Nanika to Umaku Ikimashite	
-	Oiroke Event no Oosa ni Teihyou no Aru Watashi desu ga Rival Reijou Toshite no Shimei wo Hatashimasu	
-	Omoide wo Mamoru no wa Harem Party	
-	One Piece	
-	Onna Chara de Isekai Teni shite Cheat-ppoi kedo Zako Chara nanode Medatazu Heiwa na Shomin wo Mezashimasu!	
-	Onna Kishi Goblin	
-	Oozumou Reijou: Zense ni Sumou-bu Datta Watashi ga Suteneko Ouji to Haa Dosukoi Dosukoi	
-	Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made	
-	Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou	
-	Ore no Vaccine dake ga Zombie-ka shita Sekai wo Sukueru	
-	Ore wa Kage no Eiyuu ja Arimasen!	
-	Ore wa Seikan Kokka no Akutoku Ryoushu!	
-	Oretachi no Party wa Machigatteiru	
-	Osake no Tame ni Otomege Settei wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita	
-	Osananajimi no S-kyuu Party kara Tsuihou sareta Seijuutsukai. Bannou Shien Mahou to Nakama wo Fuyashite Saikyou e!	
-	Otome Game Sekai wa Mob ni Kibishii Sekai desu	
-	Otome Game no Heroine de Saikyou Survival @comic	
-	Otomege no Mob desura Nain da ga	
-	Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru	
-	Ousama no Propose	
-	Outaishi-sama, Watashi Kondo koso Anata ni Korosaretakunai n desu!: Seijo ni Hamerareta Binbou Reijou, Nidome wa Kushizashi Kaihi shimasu!	
-	Overlord	
-	Princess wa Barairo no Yume wo Miru	
-	RTA Sousha wa Game Sekai kara Kaerenai	
-	Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku	
-	Re:Monster	
-	Re:Zero kara Hajimeru Isekai Seikatsu	
-	Realist Maou ni Yoru Seiikinaki Isekai Kaikaku	
-	Reincarnation of the Hero Party's Grand Mage	
-	Rekishi ni Nokoru Akujo ni Naru zo: Akuyaku Reijou ni Naru hodo Ouji no Dekiai wa Kasoku suru you desu!	
-	Rettoujin no Makentsukai: Skill Board wo Kushi shite Saikyou ni Itaru	
-	Ringo Tensei: Kindan no Kajitsu wa Kyou mo Korokoro to Musou suru	
-	Rosen Garten Saga	
-	S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu	
-	S-kyuu Party kara Tsuihou sareta Kariudo, Jitsu wa Sekai Saikyou: Shatei 9999 no Otoko, Teikoku no Sogekishu toshite Musou suru	
-	Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka	
-	Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. @comic	
-	Saijaku na Boku wa "Kabenuke Bug" de Nariagaru: Kabe wo Surinuketara, Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!	
-	Saikyou Juzoku Tensei: Majutsu Otaku no Risoukyou	
-	Saikyou Skill "Inochigoi" de Kuyashii kedo Musou shichau Moto Maou-sama no Sekai Seifuku Katsudou	
-	Saikyou Yuusha wa Oharaibako→Maou ni Nattara Zutto Ore no Musou Turn	
-	Saikyou no Kurokishi, Sentou Maid ni Tenshoku shimashita	
-	Saikyou no Shuzoku ga Ningen Datta Ken	
-	Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi	
-	Samayoeru Tenseisha-tachi no Revival Game	
-	Savage Fang Ojousama: Shijou Saikyou no Youhei wa Shijou Saikyou no Bougyaku Reijou to Natte Nidome no Sekai wo Musou suru	
-	Sayounara Ryuusei, Konnichiwa Jinsei	
-	Seichou Cheat de Nandemo Dekiruyou ni Natta ga, Mushoku dake wa Yamerarenai you desu	
-	Seijo-sama? Iie, Toorisugari no Mamonotsukai desu!: Zettai Muteki no Seijo wa Mofumofu to Tabi wo Suru	
-	Seinaru Ken to TS Ganbou Yuusha	
-	Seinaru Otome to Himegoto wo	
-	Seishun no After	
-	Sekai Saikyou no Shinjuutsukai	
-	Sen no Skill wo Motsu Otoko: Isekai de Shoukanjuu Hajimemashita!	
-	Senjitsu Yuusha kara Tasukete Itadaita Seiken desu ga	
-	Senki Survival Saga: Isekai no Unmei wo Kaketa Mujintou Fujun Isei Kouyuu	
-	Senkou no Boukensha	
-	Sentouin, Haken shimasu!	
-	Serial Killer Isekai ni Oritatsu	
-	Shijou Saikyou Orc-san no Tanoshii Isekai Harem-zukuri	
-	Shijou Saikyou no Mahou Kenshi, F-Rank Boukensha ni Tensei suru: Kensei to Matei, Futatsu no Zense wo Motta Otoko no Eiyuutan	
-	Shikkokutsukai no Saikyou Yuusha: Nakama Zenin ni Uragirareta node Saikyou no Mamono to Kumimasu	
-	Shindou Sephilia no Gekokujou Program	
-	Shingan no Yuusha	
-	Shinimodori Oujo wa Ikinobiru Tame ni Yuri Harem wo Tsukuru Koto ni Shita	
-	Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku	
-	Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!	
-	Shinsekai Builders: Class 24 "Karada" de Ikinokore	
-	Shitsugyou Kenja no Nariagari: Kirawareta Sainou wa Sekai Saikyou deshita	
-	Shokei sareta Kenja wa Lich ni Tensei shite Shinryaku Sensou wo Hajimeru	
-	Shokubutsu Monster Musume Nikki: Seijo Datta Watashi ga Uragirareta Hate ni Alraune ni Tensei shiteshimatta node, Korekara wa Kougousei wo Shinagara Shizuka ni Shokubutsu Life wo Sugoshimasu	
-	Shoukan sareta Kenja wa Isekai wo Iku: Saikyou nano wa Fuyou Zaiko no Item deshita	
-	Shounin Skill de Maoujou no Kouryaku wo Mezasu: Isekai Teni shita node Saikyou Item to Talk Jutsu de Ikinuku Koto ni shita	
-	Shujinkou ja Nai!	
-	Shuumatsu no Harem: Fantasia	
-	Shuumatsu no Harem: Fantasia Gakuen	
-	Slime Seijo	
-	Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita	
-	Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. ΑΩ	
-	Sono Akuyaku Kizoku, Mama Heroine ga Sukisugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru	
-	Sono Mono. Nochi ni...: Kigatsuitara S-kyuu Saikyou!? Yuusha Wazu no Daibouken	
-	Sono Ossan, Isekai de Nishuume Play wo Mankitsuchuu	
-	Souzounushi nanode Motto Yasashiku Shite Kudasai!	
-	Sozai Saishuka no Isekai Ryokouki	
-	Suna Mahou de Suna no Oukoku wo Tsukurou: Sabaku ni Tsuihou sareta kara Ganbatte Sokoku Ijou no Kokka wo Tatetemita	
-	Suteishi Yuusha, Maou no Shita de Restart	
-	Suterare Elf-san wa Sekai de Ichiban Tsuyokute Kawaii!	
-	Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru	
-	Tada no Murabito no Boku ga, Sanbyakunenmae no Boukun Ouji ni Tensei shite Shimaimashita: Zensei no Chishiki de Ansatsu Flag wo Kaihi shite, Odayaka ni Ikinokorimasu!	
-	Taida na Akujoku Kizoku ni Tensei shita Ore, Scenario wo Bukkowashitara Kikakugai no Maryoku de Saikyou ni Natta	
-	Taida na Akuyaku Kizoku no Ore ni, Konyaku Haki sareta Akuyaku Reijou ga Totsuidara Saikyou no Fuufu ni Narimashita @comic	
-	Tanaka no Atelier: Nenrei=Kanojo Inai Reki no Mahoutsukai	
-	Tanaka: Nenrei Equal Kanojo Inaireki no Mahoutsukai the Comic	
-	Tate no Yuusha no Nariagari	
-	Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story @comic	
-	Teihen Ryoushu no Kanchigai Eiyuutan	
-	Teihen Senshi, Cheat Madoushi ni Tenshoku suru	
-	Teisou Gyakuten Sekai de Sukebe na Bijo-tachi ni Kakomare nagara Boukensha Seikatsu	
-	Tenkuu no Shiro wo Moratta node Isekai de Tanoshiku Asobitai	
-	Tensei Babaa wa Misugosenai!: Moto Akutoku Nyotei no Nishuume Life	
-	Tensei Goblin dakedo Shitsumon Aru?	
-	Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita	
-	Tensei Kizoku no Bannou Kaitaku: "Kakudai & Shukushou" Skill wo Tsukatteitara Saikyou Ryouchi ni Narimashita	
-	Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta	
-	Tensei Kyuuketsuki-san wa Ohirune ga Shitai: Please Take Care of Me.	
-	Tensei Mae wa Otoko Datta node Gyaku Harem wa Okotowarishite Orimasu: Kanpeki Shukujo e no Michi	
-	Tensei Majo wa Horobi wo Tsugeru	
-	Tensei Nihakobinin no Isekai Kouryakuhou	
-	Tensei Oujo to Tensai Reijou no Mahou Kakumei	
-	Tensei Oujo wa Kyou mo Flag wo Tatakioru	
-	Tensei Reijou wa Boukensha wo Kokorozasu	
-	Tensei shita Ore ga Kawaii Sugiru node, Aisare Chara wo Mezashite Ganbarimasu	
-	Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu	
-	Tensei shitara Dragon no Tamago datta: Ibara no Dragon Road	
-	Tensei shitara Joban de Shinu Chuu-Boss Datta: Heroine Kenzoku-ka de Ikinokoru	
-	Tensei shitara Ken deshita	
-	Tensei shitara Kozakana Datta kedo Ryuu ni Nareru Rashii node Ganbarimasu	
-	Tensei shitara Ore ga Heroine de Aitsu ga Yuusha Datta	
-	Tensei shitara Otome Game no Sekai? Ie, Majutsu wo Kiwameru no ni Isogashii node Souiu no wa Kekkou desu.	
-	Tensei shitara Sainou ga Atta Ken: Isekai Ittemo Doryoku suru	
-	Tensei shitara Slime Datta Ken	
-	Tensei shitara Slime Datta Ken	
-	Tensei shitara Warui Kuni no Musume Deshita	
-	Tensei shite kara 40-nen. Sorosoro, Ojisan mo Koi ga Shitai.: Nidome no Jinsei wa Harem Route!?	
-	Tensei-saki ga Zannen Ouji Datta Ken: Ima wa Fukkin 1-kai mo Dekinai kedo Yasete Isekai Sukuimasu	
-	Tensei-saki wa Moumoku Youjo deshita: Zense no Kioku to Mahou wo Tayori ni Ikinobimasu	
-	Tentacle Hole	
-	The New Gate	
-	The S-Class Lady	
-	The Worst Villainess	
-	Toki Majutsushi no Tsuyokute New Game: Kako ni Modotte Sekai Saikyou kara Yarinaosu	
-	Totsuzen Papa ni Natta Saikyou Dragon no Kosodate Nikki: Kawaii Musume, Honobono to Ningenkai Saikyou ni Sodatsu	
-	Tou no Kanri wo Shitemiyou	
-	Tsugihagi darake no Saikyou Yuusha	
-	Tsuihou sareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou	
-	Tsuihou sareta Fuguushoku "Irotsukai" ga Sekai Sekai wo Nurikaeru made: Bishoujo darake no S-Rank Party de Saikyou Skill wo Hontou no Tsukaikata wo Shiri Musou suru	
-	Tsuihou sareta Renkinjutsushi-san, Saikyou no Dungeon wo Tsukurimasen ka?	
-	Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru	
-	Tsuki ga Michibiku Isekai Douchuu	
-	Tsuuhan de Katta Youtou ga Gachi Datta: Tameshigiri shitara Kuukan ga Sakete Isekai ni Tobasareta Ageku, Densetsu no Yuusha dato Kanchigai sarete Komatteimasu	
-	Uchi ni Kaeru to Itsumo Kukkoro ga Iru	
-	Uchi no Deshi ga Itsunomanika Jinrui Saikyou ni Natteite, Nan no Sainou mo Nai Shishou no Ore ga Sore wo Koeru Uchuu Saikyou ni Gonintei sareteiru Ken ni Tsuite	
-	Uchi no Ojousama no Hanashi wo Kiite Kure: Akuyaku Reijou Kouryaku Kiroku	
-	Umareta Chokugo ni Suterareta kedo, Zense ga Daikenja Datta node Yoyuu de Ikitemasu: Saikyou Akachan Daibousou	
-	Usotsuki Paradox	
-	Virus Tensei kara Hajimaru Isekai Kansen Monogatari	
-	Watashi no Kokoro wa Ojisan de Aru	
-	Watashi no Oshi wa Akuyaku Reijou.	
-	Watashi wa Akuyaku Reijou nanka ja Nai!!: Yamitsukai dakara tte Kanarazushimo Akuyaku dato Omouna yo	
-	What Happens Inside the Dungeon	
-	When the Villainess Is in Love	
-	World Teacher: Isekaishiki Kyouiku Agent	
-	Yagate Kuromaku e to Itaru Saitekikai	
-	Yamiochi Last Boss Reijou no Osananajimi ni Tensei shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi "Yandere-ka" shitemasen ka?	
-	Yankee Akuyaku Reijou: Tensei Tenka Yuiga Dokuson	
-	Yari no Yuusha no Yarinaoshi	
-	Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou	
-	YoRHa: Shinjuwan Kouka Sakusen Kiroku	
-	Yoku Wakaranai keredo Isekai ni Tensei shiteita you desu	
-	Yondome wa Iya na Shizokusei Majutsushi	
-	Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.	
-	Yuusha Party wo Kubi ni Natta node Kokyou ni Kaettara, Member Zenin ga Tsuitekitan da ga	
-	Yuusha Party wo Oidasareta Kiyoubinbou: Party Jijou de Fuyo Jutsushi wo Yatteita Kenshi, Bannou e to Itaru	
-	Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru	
-	Yuusha Party wo Tsuihou sareta node, Maou wo Torikaeshi ga Tsukanai hodo Tsuyoku Sodatetemita	
-	Yuusha ni Haiboku shita Maou-sama wa Kaerizaku Tame ni Mamono Guild wo Tsukuru Koto ni Shimashita.	
-	Yuusha to Yobareta Ato ni: Soshite Musou Otoko wa Kazoku wo Tsukuru	
-	Zenmetsu End wo Shi ni Monogurui de Kaihi shita. Party ga Yanda.	
-	Zense wa Kentei. Konjou Kuzu Ouji	
-	Zettai ni Hatarakitakunai Dungeon Master ga Damin wo Musaboru made	
-	Zettai ni Yatte wa Ikenai Isekai Shoukan	
-	Zombie World de Harem wo Tsukurou!	
-	ib: Instant Bullet	
+# Gboard Dictionary version:2
+# Gboard Dictionary format:shortcut	word	language_tag	pos_tag
+	0-saiji Start Dash Monogatari		
+	29-sai Dokushin wa Isekai de Jiyuu ni Ikita......katta.		
+	4 Cut Hero		
+	7th		
+	A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.		
+	ATM Ojisan: Isekai de Moteki ga Tomaranai!		
+	Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!		
+	Akuma Koujo		
+	Akutou Ikka no Manamusume, Tensei-saki mo Otome Game no Gokudou Reijou deshita. Saijoukyuu Rank no Akuyaku-sama, Sono Dekiai wa Fuyou desu! @comic		
+	Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen		
+	Akuyaku Reijou Route ga Nai nante, Dare ga Itta no?		
+	Akuyaku Reijou Tensei Ojisan		
+	Akuyaku Reijou ga Sei Heroine wo Kudoki Otosu Hanashi.		
+	Akuyaku Reijou ni Narimashita.		
+	Akuyaku Reijou no Naka no Hito: Danzai sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu		
+	Akuyaku Reijou tte Nani wo Sureba Iin dakke?		
+	Akuyaku Reijou wa Heroine wo Ijimeteiru Baai dewa Nai		
+	Akuyaku Reijou, Ore		
+	Albert-ke no Reijou wa Botsuraku wo Goshomou desu		
+	Android wa Keiken Ninzuu ni Hairimasu ka??		
+	Ansatsu Skill de Isekai Saikyou: Renkinjutsu to Ansatsujutsu wo Kiwameta Ore wa, Sekai wo Kage kara Shihai suru		
+	Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga		
+	Arifureta Shokugyou de Sekai Saikyou		
+	Asa made Jugyou Chu!		
+	Astral Online: Maou no Noroi de Saikyou Bishoujo ni Natta Ore, Saijakushoku da ga Cheat Skill de Chou Seichou shite Musou suru		
+	Ato wa Gojiyuu ni Douzo! Tutorial de Kamisama ga Last Boss Taoshichatta node, Watashi wa Suki Houdai Ikiteiku		
+	Beni Tsubaki		
+	Berserk		
+	Biryuu Enshoutan: Jikokouteikan ga Gekihiku na Dragon-kyuu Bishoujo Maou wo, Yuusha ga Icha Love de Taijisuru Ohanashi		
+	Blade & Bastard		
+	Bocchi Tenseiki		
+	Boku Igai Zennin Tenseisha ka yo		
+	Boku ga Yuusha de Maou mo Boku de		
+	Boku no Kanojo ga Majimesugiru Shojo Bitch na Ken		
+	Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san		
+	Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san		
+	Boushokuki no Ken		
+	Buta Koushaku ni Tensei shita kara, Kondo wa Kimi ni Suki to Iitai		
+	Buta no Fukushuu		
+	Cheat Skill "Shisha Sosei" ga Kakusei shite, Inishie no Maougun wo Fukkatsu sasete Shimaimashita: Daremo Shinasenai Saikyou Healer		
+	Chibikko Kenja, Lv.1 kara Isekai de Ganbarimasu!		
+	Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.		
+	Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin		
+	Chounin A wa Akuyaku Reijou wo Doushitemo Sukuitai: Dobu to Sora to Koori no Himegimi		
+	Class Teni ni Makikomareta Conveni Tenin no Ossan, Yuusha ni wa Hitsuyou Nakatta Amarimono Skill wo Kushi shite Saikyou to Naru you desu.		
+	Daikenja Riddle no Jikan Gyakkou		
+	Dainana Maouji Jilbagias no Maou Keikokuki		
+	Danshi Kinsei Game Sekai de Ore ga Yarubeki Yuiitsu no Koto: Yuri no Aida ni Hasamaru Otoko toshite Tensei shiteshimaimashita		
+	Danshi Koukousei wa Isekai de JK ni Natta		
+	Danshi Koukousei, Otome Game no Akuyaku Reijou ni Tensei suru.		
+	Danzai sareta Tensei Seijo wa, Akuyaku Reijou no Michi wo Iku!		
+	Dappou Tamer no Nariagari Boukentan: S-Rank Bishoujo Boukensha ga Ore no Juuma ni Natteimasu the Comic		
+	Dark Summoner to Dekiteiru		
+	Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita @comic		
+	Destiny Unchain Online: Kyuuketsuki Shoujo to Natte, Yagate "Aka no Maou" to Yobareru you ni Narimashita		
+	Dorei Tensei: Sono Dorei, Saikyou no Moto Ouji ni Tsuki		
+	Doryoku Shisugita Sekai Saikyou no Butouka wa, Mahou Sekai wo Yoyuu de Ikinuku.		
+	Doumo, Yuusha no Chichi desu. Kono Tabi wa Gusoku ga Gomeiwaku wo Kakete, Moushiwake Arimasen.		
+	Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou suru!		
+	Dungeon ni Hisomu Yandere na Kanojo ni Ore wa Nando mo Korosareru		
+	Dungeon-gurashi no Motoyuusha the Comic		
+	Dungeon-tou de Yadoya wo Yarou!: Souzou Mahou wo Moratta Ore no Hosoude Hanjouki		
+	Elf Tensei kara no Cheat Kenkokuki		
+	Elf-zuma to Hajimeru Yuukyuu no Tabi: Densetsu no Yuusha, Aisuru Elf to Tomo ni 100-nen Mae ni Sukutta Sekai wo Tabisuru		
+	Eroge no Sekai de Slow Life: Issho ni Isekai Teni shitekita Yarisaa no Daigakusei-tachi ni Tsuihou sareta node, Henkyou de Muteki ni Natte Shin no Heroine-tachi to Yoroshiku Yarimasu		
+	Eroi Koto Suru Tame ni Kyonyuu Bishoujo Dorei wo Katta Hazu ga, Oshishou-sama to Shitawarete Omotta Toori ni Ikanaku Naru Hanashi		
+	Fuguushoku to Baka ni Saremashita ga, Jissai wa Sorehodo Waruku Arimasen?		
+	Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru		
+	Futoku no Guild		
+	Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi		
+	Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu		
+	Gakeppuchi Reijou wa Kurokishi-sama wo Horesasetai!		
+	Gakuen Mono no Otome Game no Sekai ni Tensei shita kedo, Cheat-mochi no Haikei Danshi Seito Datta you desu.		
+	Gal Maid to Akuyaku Reijou: Ojousama no Happy End shika Katan!		
+	Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai		
+	Game Sekai no Mob Akuyaku ni Tensei shita node Last Boss wo Mezashitemita: Nazeka Rekidai Saikou no Meikun to Agamerareteirun desu ga, Dareka Riyuu wo Oshiete Kudasai!		
+	Garbage Brave: Isekai ni Shoukan sare Suterareta Yuusha no Fukushuu Monogatari		
+	Genkai Dungeon no Hanshoku Jijou		
+	Genkai Level 1 kara no Nariagari: Saijaku Level no Ore ga Isekai Saikyou ni Naru made		
+	Genkai OL-san wa Akuyaku Reijou-sama ni Tsukaetai		
+	Goshujinsama to Yuku Isekai Survival! The Comic		
+	Grand Blue		
+	Gyakkou shita Akuyaku Reijou wa, Nazeka Maryoku wo Ushinatta node Shinsou no Reijou ni Narimasu: Seijo Anna no Monogatari		
+	Hachi-nan tte, Sore wa Nai deshou!		
+	Hakui no Eiyuu		
+	Hangyaku no Yuusha: Skill wo Tsukatte Haraguro Oujo no Kokoro to Karada wo Shouaku seyo		
+	Harem yori Heion wo! Isekai de Shizuka ni NEET Hime sasete Kure		
+	Hazure Aka Madoushi wa Kenja Time ni Musou suru		
+	Hazure Skill de SSS-Rank Makyou wo Ikinuitara, Sekai Saikyou no Renkinjutsushi ni Natteita: Kaiteki Kyoten wo Tsukutte Nakama to Tanoshii Isekai Life		
+	Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made		
+	Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru		
+	Henkyou Mob Kizoku no Uchi ni Totsuidekita Akuyaku Reijou ga, Mechakucha Dekiru Ii Yome Nanda ga?		
+	Henkyougurashi no Maou, Tensei shite Saikyou no Majutsushi ni Naru		
+	Hikikomari Kyuuketsuki no Monmon		
+	Hisshou Dungeon Unei Houhou		
+	Hitoribocchi no Isekai Kouryaku		
+	Hitozuma Medusa-san to no Nettori Seikatsu		
+	Holy Brownie		
+	Homeless Tensei: Isekai de Jiyuu Sugiru Jikyuu Jisoku Seikatsu		
+	How Did I Become the Princess?		
+	Ie ga Moete Jinsei Doudemo Yoku Natta kara Nokotta Nakenashi no Kane de Dark Elf no Dorei wo Katta.		
+	Ikusei Skill wa Mou Iranai to Yuusha Party wo Kaikosareta node, Taishoku Kingawari ni Moratta "Ryouchi" wo Tsuyoku shitemiru		
+	Isekai Arigatou		
+	Isekai Cheat Survival Meshi		
+	Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou		
+	Isekai Kenkokuki		
+	Isekai Kokka Alchimaira: Saijaku no Ou to Musou no Gunzei		
+	Isekai Mahou wa Okureteru!		
+	Isekai Majutsushi wa Mahou wo Tonaenai the Comic		
+	Isekai Maou to Shoukan Shoujo no Dorei Majutsu		
+	Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku		
+	Isekai Monster Breeder: Cheat wa Aru kedo, Nonbiri Ikusei Shiteimasu		
+	Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku		
+	Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou		
+	Isekai Nonbiri Nouka		
+	Isekai Rakuraku Survival: Seizon Skill Kyousha no Ore ga Bishoujo Yonin to Kurasu Mujintou Seikatsu		
+	Isekai Saikou no Kizoku, Harem wo Fuyasu hodo Tsuyokunaru		
+	Isekai Shihai no Skill Taker: Zero kara Hajimeru Dorei Harem		
+	Isekai Shikkaku		
+	Isekai Sniper wa Onna Senshi no Mofumofu Pet		
+	Isekai Tensei no Boukensha		
+	Isekai Yurutto Survival Seikatsu: Gakkou no Mina to Isekai no Mujintou ni Teni shita kedo Ore dake Rakushou desu		
+	Isekai de Mizu no Daiseirei Yattemasu.		
+	Isekai de Saikyou no Tsue ni Tensei shita Ore ga Iyagaru Shoujo wo Muriyari Mahou Shoujo ni P suru!		
+	Isekai de Skill wo Kaitai shitara Cheat na Yome ga Zoushoku Shimashita: Gainen Kousa no Structure		
+	Isekai de Te ni Ireta Seisan Skill wa Saikyou Datta you desu.		
+	Isekai de Tochi wo Katte Noujou wo Tsukurou		
+	Isekai de Zenra Yuusha to Yobanaide		
+	Isekai demo Fuuzokujou Yattemita		
+	Isekai ni Kita Boku wa Kiyoubinbou de Subayasa Dayori na Tabi wo Suru		
+	Isekai ni Otosareta... Jouka wa Kihon! @comic		
+	Isekai ni Shoukan saretan dakedo, Nandemo Kireteshimau Kennou wo Te ni Ireta node Easy Mode deshita ​		
+	JK Haru wa Isekai de Shoufu ni Natta		
+	Jaryuu Tensei		
+	Jashin Kankin Harem de Isekai Seifuku!		
+	Jichou Shinai Motoyuusha no Tsuyokute Tanoshii New Game		
+	Jigoku no Gouka de Yakare Tsuzuketa Shounen. Saikyou no Honootsukai to Natte Fukkatsu suru.		
+	Jijo nanoni... Seiken wo Nuite Shimatta!		
+	Jikan Teishi Yuusha		
+	Jimi na Kensei wa Soredemo Saikyou desu		
+	Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan		
+	Joou Heika no Isekai Strategy		
+	Just Read Me Already!		
+	Kaettekita Motoyuusha		
+	Kage no Jitsuryokusha ni Naritakute!		
+	Kaifuku Jutsushi no Yarinaoshi		
+	Kaiten no Albus		
+	Kajiya de Hajimeru Isekai Slow Life		
+	Kami no Techigai de Shindara Cheat Gun Tsumi de Isekai ni Hourikomaremashita		
+	Kankin Ou		
+	Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru		
+	Kanzen Kaihi Healer no Kiseki		
+	Katainaka no Ossan, Kensei ni Naru: Tada no Inaka no Kenjutsu Shihan Datta noni, Taisei shita Deshi-tachi ga Ore wo Houttekurenai Ken		
+	Keikenchi Chochiku de Nonbiri Shoushin Ryokou: Yuusha to Koibito ni Tsuihou sareta Senshi no Mujikaku Zamaa		
+	Kekkon Yubiwa Monogatari		
+	Ken to Tiara to High Heels: Koushaku Reijou ni wa Eiyuu no Tamashii ga Yadoru @comic		
+	Kenja no Mago		
+	Kenseijo Adel no Yarinaoshi: Kako ni Modotta Saikyou Kensei, Hime wo Sukuu Tame ni Seijo to Naru		
+	Kichiku Eiyuu		
+	Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen		
+	Kiraware Yuusha wo Enjita Ore wa, Nazeka Last Boss ni Sukarete Issho ni Seikatsu shitemasu!		
+	Kirawaremono no Akuyaku Reisoku ni Tensei shita noni, Nazeka Mawari ga Houtteoite Kurenai		
+	Kitai no Akujo, Sandome no Jinsei de "Musai Munou" wo Tanoshimu		
+	Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.		
+	Kokoro no Koe ga Kikoeru Akuyaku Reijou wa, Kyou mo Koinu Denka ni Honrou sareru @comic		
+	Kondo koso Shiawase ni Narimasu!		
+	Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat		
+	Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu: Oishii Mono wo Tabesasete Oshare wo Sasete, Sekaiichi Shiawase na Shoujo ni Produce!		
+	Koujo Tensei: Densetsu no Daimadoushi (♂), Himekishi to Narite Densetsu no Reijou Kishidan wo Tsukuri Musou suru		
+	Kouritsuchuu Madoushi, Daini no Jinsei de Madou wo Kiwameru		
+	Koushaku Reijou ni Tensei shiteshimatta node, Mental Otome na Ore wa, Zenryoku de Onnanoko wo Tanoshimimasu		
+	Koushaku Reijou no Rouraku Mission: Maou to no Seiryaku Kekkon ga Jinrui Saigo no Kirifuda desu!... tte, Maou ga Onnanoko no Baai wa Dou Sureba Ii no desu ka!?		
+	Koushaku Reijou no Tashinami		
+	Kumo desu ga, Nani ka?		
+	Kuni wo Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou Shiteshimau. Jakushou Kokka ga Tairiku Saikyou no Ryuu no Rakuen ni Naru made		
+	Kuro no Shoukanshi		
+	Kuro no Souzou Shoukanshi: Tenseisha no Hangyaku		
+	Kuzulesse Oblige: Bishoujo Game Sekai no Kuzu Akuyaku ni Tensei shiteshimatta Ore wa, Gensaku Chishiki no Chikara de Doushitemo Mob Jinsei wo Tsukamitoritai		
+	Kyoukai Meikyuu to Ikai no Majutsushi		
+	Last Boss, Yametemita: Shujinkou ni Taosareta Furishite Jiyuu ni Ikitemita		
+	Level 1 no Saikyou Kenja: Noroi de Saikakyuu Mahou shika Tsukaenai kedo, Kami no Kanchigai de Mugen no Maryoku wo Te ni Ire Saikyou ni		
+	Live Dungeon!		
+	Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru		
+	Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life		
+	Magatsu Wanashi no Yuushagari		
+	Magical★Explorer: Eroge no Yuujin-Chara ni Tensei shita kedo, Game Chishiki Tsukatte Jiyuu ni Ikiru		
+	Mahou Shoujo ni Akogarete		
+	Majo no Geboku to Maou no Tsuno		
+	Majutsu Gakuin wo Shuseki de Sotsugyoushita Ore ga Boukensha wo Hajimeru no wa Sonna ni Okashii Darou ka		
+	Majutsu Guild Sousui: Umarekawatte Imasara Yarinaosu Nidome no Gakuin Seikatsu		
+	Makentsukai no Moto Shounenhei wa, Moto Tekikanbu no Oneesan to Issho ni Ikitai		
+	Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat		
+	Manadeshi ni Uragirarete Shinda Ossan Yuusha, Shijou Saikyou no Maou toshite Ikikaeru		
+	Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru		
+	Maou no Musume, Sugoku Choroi.		
+	Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?		
+	Maou to Ore no Hangyakuki		
+	Maou to Yuusha no Tatakai no Ura de		
+	Maou-sama ni Shoukan sareta kedo Kotoba ga Tsuujinai.		
+	Maou-sama no Machizukuri! Saikyou no Dungeon wa Kindai Toshi		
+	Maougun Saikyou no Majutsushi wa Ningen datta		
+	Maydare Tensei Monogatari: Kono Sekai de Ichiban Warui Majo		
+	Meccha Shoukan sareta Ken the Comic		
+	Meiou-sama ga Tooru no desu yo! @comic		
+	Mob Shisai dakedo, Kono Sekai ga Otome Game dato Kizuita node Heroine wo Ikusei shimasu		
+	Monmusugo! Honnyaku Skill de Saikyou Monmusu to Isekai Seikatsu		
+	Monster no Goshujinsama		
+	Monster no Niku wo Kutteitara Oui ni Tsuita Ken		
+	Moto Ansatsusha, Tensei shita Kizoku no Reijou ni Narimashita.		
+	Moto Isekai Tenisha Datta Kachou no Ojisan, Jinsei Nidome no Isekai wo Kakemawaru		
+	Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru the Comic		
+	Moto Sekai 1-i no Sub-Chara Ikusei Nikki: Hai Player, Isekai wo Kouryakuchuu!		
+	Moto, Ochikobore Koushaku Reijou desu. The Comic		
+	Motoyuusha wa Shizuka ni Kurashitai		
+	Mottomo Kirawareteiru Saikyou no Akuyaku ni Tensei		
+	Mukashi Yuusha de Ima wa Hone		
+	Murabito desu ga Nani ka?		
+	Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai		
+	Mushoku Tensei: Isekai Ittara Honki Dasu		
+	Mushoku Tensei: Isekai Ittara Honki Dasu		
+	Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga - Sainou Zero no Nariagari		
+	NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta		
+	Nadenade Skill de Maryoku Chuunyuu!!		
+	Nageki no Bourei wa Intai shitai: Saijaku Hunter ni Yoru Saikyou Party Ikuseijutsu		
+	Naze Boku no Sekai wo Daremo Oboeteinai no ka?		
+	Negai wo Kanaete Moraou to Akuma wo Shoukan shita kedo, Kawaikatta node Kekkon shimashita: Akuma no Niizuma		
+	Neta Character Tensei toka Anmari da! the Comic		
+	Netorare Manga no Kuzu Otoko ni Tensei shita Hazu ga Heroine ga Yottekuru Ken		
+	Netorare Tsuihou sareta Saikyou Kishi Danchou no Ossan, Katainaka de Eiyuu ni Matsuriagerareru		
+	Next Life		
+	Nido Tensei shita Shounen wa S-Rank Boukensha Toshite Heion ni Sugosu: Zense ga Kenja de Eiyuu Datta Boku wa Raise dewa Jimi ni Ikiru		
+	Nidome no Jinsei wo Isekai de		
+	Ninkyou Tensei: Isekai no Yakuza Hime		
+	Nise Seijo Kuso of the Year: Risou no Seijo? Zannen, Nise Seijo deshita!		
+	Nou Aru Ogre wa Tsuno wo Kakusu: Maou Kouho ni Erabareshi Moto Yuusha, Hito ni Bakete Tabi ni Deru		
+	Nougaku Hakase no Isekai Musou: Kinki no Chishiki de Kizuku Monster Musume Harem		
+	Nozoki Ana		
+	Nozomanu Fushi no Boukensha		
+	Ogre no Aniki to Dorei-chan		
+	Oidasaretara, Nanika to Umaku Ikimashite		
+	Oiroke Event no Oosa ni Teihyou no Aru Watashi desu ga Rival Reijou Toshite no Shimei wo Hatashimasu		
+	Omoide wo Mamoru no wa Harem Party		
+	One Piece		
+	Onna Chara de Isekai Teni shite Cheat-ppoi kedo Zako Chara nanode Medatazu Heiwa na Shomin wo Mezashimasu!		
+	Onna Kishi Goblin		
+	Oozumou Reijou: Zense ni Sumou-bu Datta Watashi ga Suteneko Ouji to Haa Dosukoi Dosukoi		
+	Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki: Saijaku Skill "Kyuushuu" ga Subete wo Nomikomu made		
+	Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou		
+	Ore no Vaccine dake ga Zombie-ka shita Sekai wo Sukueru		
+	Ore wa Kage no Eiyuu ja Arimasen!		
+	Ore wa Seikan Kokka no Akutoku Ryoushu!		
+	Oretachi no Party wa Machigatteiru		
+	Osake no Tame ni Otomege Settei wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita		
+	Osananajimi no S-kyuu Party kara Tsuihou sareta Seijuutsukai. Bannou Shien Mahou to Nakama wo Fuyashite Saikyou e!		
+	Otome Game Sekai wa Mob ni Kibishii Sekai desu		
+	Otome Game no Heroine de Saikyou Survival @comic		
+	Otomege no Mob desura Nain da ga		
+	Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru		
+	Ousama no Propose		
+	Outaishi-sama, Watashi Kondo koso Anata ni Korosaretakunai n desu!: Seijo ni Hamerareta Binbou Reijou, Nidome wa Kushizashi Kaihi shimasu!		
+	Overlord		
+	Princess wa Barairo no Yume wo Miru		
+	RTA Sousha wa Game Sekai kara Kaerenai		
+	Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku		
+	Re:Monster		
+	Re:Zero kara Hajimeru Isekai Seikatsu		
+	Realist Maou ni Yoru Seiikinaki Isekai Kaikaku		
+	Reincarnation of the Hero Party's Grand Mage		
+	Rekishi ni Nokoru Akujo ni Naru zo: Akuyaku Reijou ni Naru hodo Ouji no Dekiai wa Kasoku suru you desu!		
+	Rettoujin no Makentsukai: Skill Board wo Kushi shite Saikyou ni Itaru		
+	Ringo Tensei: Kindan no Kajitsu wa Kyou mo Korokoro to Musou suru		
+	Rosen Garten Saga		
+	S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu		
+	S-kyuu Party kara Tsuihou sareta Kariudo, Jitsu wa Sekai Saikyou: Shatei 9999 no Otoko, Teikoku no Sogekishu toshite Musou suru		
+	Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka		
+	Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. @comic		
+	Saijaku na Boku wa "Kabenuke Bug" de Nariagaru: Kabe wo Surinuketara, Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!		
+	Saikyou Juzoku Tensei: Majutsu Otaku no Risoukyou		
+	Saikyou Skill "Inochigoi" de Kuyashii kedo Musou shichau Moto Maou-sama no Sekai Seifuku Katsudou		
+	Saikyou Yuusha wa Oharaibako→Maou ni Nattara Zutto Ore no Musou Turn		
+	Saikyou no Kurokishi, Sentou Maid ni Tenshoku shimashita		
+	Saikyou no Shuzoku ga Ningen Datta Ken		
+	Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi		
+	Samayoeru Tenseisha-tachi no Revival Game		
+	Savage Fang Ojousama: Shijou Saikyou no Youhei wa Shijou Saikyou no Bougyaku Reijou to Natte Nidome no Sekai wo Musou suru		
+	Sayounara Ryuusei, Konnichiwa Jinsei		
+	Seichou Cheat de Nandemo Dekiruyou ni Natta ga, Mushoku dake wa Yamerarenai you desu		
+	Seijo-sama? Iie, Toorisugari no Mamonotsukai desu!: Zettai Muteki no Seijo wa Mofumofu to Tabi wo Suru		
+	Seinaru Ken to TS Ganbou Yuusha		
+	Seinaru Otome to Himegoto wo		
+	Seishun no After		
+	Sekai Saikyou no Shinjuutsukai		
+	Sen no Skill wo Motsu Otoko: Isekai de Shoukanjuu Hajimemashita!		
+	Senjitsu Yuusha kara Tasukete Itadaita Seiken desu ga		
+	Senki Survival Saga: Isekai no Unmei wo Kaketa Mujintou Fujun Isei Kouyuu		
+	Senkou no Boukensha		
+	Sentouin, Haken shimasu!		
+	Serial Killer Isekai ni Oritatsu		
+	Shijou Saikyou Orc-san no Tanoshii Isekai Harem-zukuri		
+	Shijou Saikyou no Mahou Kenshi, F-Rank Boukensha ni Tensei suru: Kensei to Matei, Futatsu no Zense wo Motta Otoko no Eiyuutan		
+	Shikkokutsukai no Saikyou Yuusha: Nakama Zenin ni Uragirareta node Saikyou no Mamono to Kumimasu		
+	Shindou Sephilia no Gekokujou Program		
+	Shingan no Yuusha		
+	Shinimodori Oujo wa Ikinobiru Tame ni Yuri Harem wo Tsukuru Koto ni Shita		
+	Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku		
+	Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!		
+	Shinsekai Builders: Class 24 "Karada" de Ikinokore		
+	Shitsugyou Kenja no Nariagari: Kirawareta Sainou wa Sekai Saikyou deshita		
+	Shokei sareta Kenja wa Lich ni Tensei shite Shinryaku Sensou wo Hajimeru		
+	Shokubutsu Monster Musume Nikki: Seijo Datta Watashi ga Uragirareta Hate ni Alraune ni Tensei shiteshimatta node, Korekara wa Kougousei wo Shinagara Shizuka ni Shokubutsu Life wo Sugoshimasu		
+	Shoukan sareta Kenja wa Isekai wo Iku: Saikyou nano wa Fuyou Zaiko no Item deshita		
+	Shounin Skill de Maoujou no Kouryaku wo Mezasu: Isekai Teni shita node Saikyou Item to Talk Jutsu de Ikinuku Koto ni shita		
+	Shujinkou ja Nai!		
+	Shuumatsu no Harem: Fantasia		
+	Shuumatsu no Harem: Fantasia Gakuen		
+	Slime Seijo		
+	Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita		
+	Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. ΑΩ		
+	Sono Akuyaku Kizoku, Mama Heroine ga Sukisugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru		
+	Sono Mono. Nochi ni...: Kigatsuitara S-kyuu Saikyou!? Yuusha Wazu no Daibouken		
+	Sono Ossan, Isekai de Nishuume Play wo Mankitsuchuu		
+	Souzounushi nanode Motto Yasashiku Shite Kudasai!		
+	Sozai Saishuka no Isekai Ryokouki		
+	Suna Mahou de Suna no Oukoku wo Tsukurou: Sabaku ni Tsuihou sareta kara Ganbatte Sokoku Ijou no Kokka wo Tatetemita		
+	Suteishi Yuusha, Maou no Shita de Restart		
+	Suterare Elf-san wa Sekai de Ichiban Tsuyokute Kawaii!		
+	Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru		
+	Tada no Murabito no Boku ga, Sanbyakunenmae no Boukun Ouji ni Tensei shite Shimaimashita: Zensei no Chishiki de Ansatsu Flag wo Kaihi shite, Odayaka ni Ikinokorimasu!		
+	Taida na Akujoku Kizoku ni Tensei shita Ore, Scenario wo Bukkowashitara Kikakugai no Maryoku de Saikyou ni Natta		
+	Taida na Akuyaku Kizoku no Ore ni, Konyaku Haki sareta Akuyaku Reijou ga Totsuidara Saikyou no Fuufu ni Narimashita @comic		
+	Tanaka no Atelier: Nenrei=Kanojo Inai Reki no Mahoutsukai		
+	Tanaka: Nenrei Equal Kanojo Inaireki no Mahoutsukai the Comic		
+	Tate no Yuusha no Nariagari		
+	Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story @comic		
+	Teihen Ryoushu no Kanchigai Eiyuutan		
+	Teihen Senshi, Cheat Madoushi ni Tenshoku suru		
+	Teisou Gyakuten Sekai de Sukebe na Bijo-tachi ni Kakomare nagara Boukensha Seikatsu		
+	Tenkuu no Shiro wo Moratta node Isekai de Tanoshiku Asobitai		
+	Tensei Babaa wa Misugosenai!: Moto Akutoku Nyotei no Nishuume Life		
+	Tensei Goblin dakedo Shitsumon Aru?		
+	Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita		
+	Tensei Kizoku no Bannou Kaitaku: "Kakudai & Shukushou" Skill wo Tsukatteitara Saikyou Ryouchi ni Narimashita		
+	Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta		
+	Tensei Kyuuketsuki-san wa Ohirune ga Shitai: Please Take Care of Me.		
+	Tensei Mae wa Otoko Datta node Gyaku Harem wa Okotowarishite Orimasu: Kanpeki Shukujo e no Michi		
+	Tensei Majo wa Horobi wo Tsugeru		
+	Tensei Nihakobinin no Isekai Kouryakuhou		
+	Tensei Oujo to Tensai Reijou no Mahou Kakumei		
+	Tensei Oujo wa Kyou mo Flag wo Tatakioru		
+	Tensei Reijou wa Boukensha wo Kokorozasu		
+	Tensei shita Ore ga Kawaii Sugiru node, Aisare Chara wo Mezashite Ganbarimasu		
+	Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu		
+	Tensei shitara Dragon no Tamago datta: Ibara no Dragon Road		
+	Tensei shitara Joban de Shinu Chuu-Boss Datta: Heroine Kenzoku-ka de Ikinokoru		
+	Tensei shitara Ken deshita		
+	Tensei shitara Kozakana Datta kedo Ryuu ni Nareru Rashii node Ganbarimasu		
+	Tensei shitara Ore ga Heroine de Aitsu ga Yuusha Datta		
+	Tensei shitara Otome Game no Sekai? Ie, Majutsu wo Kiwameru no ni Isogashii node Souiu no wa Kekkou desu.		
+	Tensei shitara Sainou ga Atta Ken: Isekai Ittemo Doryoku suru		
+	Tensei shitara Slime Datta Ken		
+	Tensei shitara Slime Datta Ken		
+	Tensei shitara Warui Kuni no Musume Deshita		
+	Tensei shite kara 40-nen. Sorosoro, Ojisan mo Koi ga Shitai.: Nidome no Jinsei wa Harem Route!?		
+	Tensei-saki ga Zannen Ouji Datta Ken: Ima wa Fukkin 1-kai mo Dekinai kedo Yasete Isekai Sukuimasu		
+	Tensei-saki wa Moumoku Youjo deshita: Zense no Kioku to Mahou wo Tayori ni Ikinobimasu		
+	Tentacle Hole		
+	The New Gate		
+	The S-Class Lady		
+	The Worst Villainess		
+	Toki Majutsushi no Tsuyokute New Game: Kako ni Modotte Sekai Saikyou kara Yarinaosu		
+	Totsuzen Papa ni Natta Saikyou Dragon no Kosodate Nikki: Kawaii Musume, Honobono to Ningenkai Saikyou ni Sodatsu		
+	Tou no Kanri wo Shitemiyou		
+	Tsugihagi darake no Saikyou Yuusha		
+	Tsuihou sareru Tabi ni Skill wo Te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou		
+	Tsuihou sareta Fuguushoku "Irotsukai" ga Sekai Sekai wo Nurikaeru made: Bishoujo darake no S-Rank Party de Saikyou Skill wo Hontou no Tsukaikata wo Shiri Musou suru		
+	Tsuihou sareta Renkinjutsushi-san, Saikyou no Dungeon wo Tsukurimasen ka?		
+	Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru		
+	Tsuki ga Michibiku Isekai Douchuu		
+	Tsuuhan de Katta Youtou ga Gachi Datta: Tameshigiri shitara Kuukan ga Sakete Isekai ni Tobasareta Ageku, Densetsu no Yuusha dato Kanchigai sarete Komatteimasu		
+	Uchi ni Kaeru to Itsumo Kukkoro ga Iru		
+	Uchi no Deshi ga Itsunomanika Jinrui Saikyou ni Natteite, Nan no Sainou mo Nai Shishou no Ore ga Sore wo Koeru Uchuu Saikyou ni Gonintei sareteiru Ken ni Tsuite		
+	Uchi no Ojousama no Hanashi wo Kiite Kure: Akuyaku Reijou Kouryaku Kiroku		
+	Umareta Chokugo ni Suterareta kedo, Zense ga Daikenja Datta node Yoyuu de Ikitemasu: Saikyou Akachan Daibousou		
+	Usotsuki Paradox		
+	Virus Tensei kara Hajimaru Isekai Kansen Monogatari		
+	Watashi no Kokoro wa Ojisan de Aru		
+	Watashi no Oshi wa Akuyaku Reijou.		
+	Watashi wa Akuyaku Reijou nanka ja Nai!!: Yamitsukai dakara tte Kanarazushimo Akuyaku dato Omouna yo		
+	What Happens Inside the Dungeon		
+	When the Villainess Is in Love		
+	World Teacher: Isekaishiki Kyouiku Agent		
+	Yagate Kuromaku e to Itaru Saitekikai		
+	Yamiochi Last Boss Reijou no Osananajimi ni Tensei shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi "Yandere-ka" shitemasen ka?		
+	Yankee Akuyaku Reijou: Tensei Tenka Yuiga Dokuson		
+	Yari no Yuusha no Yarinaoshi		
+	Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou		
+	YoRHa: Shinjuwan Kouka Sakusen Kiroku		
+	Yoku Wakaranai keredo Isekai ni Tensei shiteita you desu		
+	Yondome wa Iya na Shizokusei Majutsushi		
+	Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.		
+	Yuusha Party wo Kubi ni Natta node Kokyou ni Kaettara, Member Zenin ga Tsuitekitan da ga		
+	Yuusha Party wo Oidasareta Kiyoubinbou: Party Jijou de Fuyo Jutsushi wo Yatteita Kenshi, Bannou e to Itaru		
+	Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru		
+	Yuusha Party wo Tsuihou sareta node, Maou wo Torikaeshi ga Tsukanai hodo Tsuyoku Sodatetemita		
+	Yuusha ni Haiboku shita Maou-sama wa Kaerizaku Tame ni Mamono Guild wo Tsukuru Koto ni Shimashita.		
+	Yuusha to Yobareta Ato ni: Soshite Musou Otoko wa Kazoku wo Tsukuru		
+	Zenmetsu End wo Shi ni Monogurui de Kaihi shita. Party ga Yanda.		
+	Zense wa Kentei. Konjou Kuzu Ouji		
+	Zettai ni Hatarakitakunai Dungeon Master ga Damin wo Musaboru made		
+	Zettai ni Yatte wa Ikenai Isekai Shoukan		
+	Zombie World de Harem wo Tsukurou!		
+	ib: Instant Bullet		

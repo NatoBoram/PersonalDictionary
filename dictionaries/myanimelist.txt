@@ -1,394 +1,395 @@
-# Gboard Dictionary version:1
-	100-man no Inochi no Ue ni Ore wa Tatteiru	
-	100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season	
-	Absolute Duo	
-	Akame ga Kill!	
-	Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen	
-	Akuyaku Reijou nanode Last Boss wo Kattemimashita	
-	Angel Beats!	
-	Another	
-	Ansatsu Kyoushitsu	
-	Ansatsu Kyoushitsu 2nd Season	
-	Arifureta Shokugyou de Sekai Saikyou	
-	Arifureta Shokugyou de Sekai Saikyou 2nd Season	
-	Arifureta Shokugyou de Sekai Saikyou Season 3	
-	Arknights: Perish in Frost	
-	Azur Lane	
-	Benriya Saitou-san, Isekai ni Iku	
-	Black Clover	
-	Black Clover: Jump Festa 2016 Special	
-	Blue Archive the Animation	
-	Boku wa Tomodachi ga Sukunai	
-	Boku wa Tomodachi ga Sukunai Next	
-	Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta	
-	Boushoku no Berserk	
-	Busou Shoujo Machiavellianism	
-	Buta no Liver wa Kanetsu Shiro	
-	Charlotte	
-	Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore	
-	Chiyu Mahou no Machigatta Tsukaikata	
-	Choujigen Game Neptune The Animation	
-	Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!	
-	Clockwork Planet	
-	C³	
-	Dakara Boku wa, H ga Dekinai.	
-	Darling in the FranXX	
-	Date A Bullet: Dead or Bullet	
-	Date A Bullet: Nightmare or Queen	
-	Date A Live	
-	Date A Live II	
-	Date A Live II: Kurumi Star Festival	
-	Date A Live III	
-	Date A Live IV	
-	Date A Live V	
-	Dead Mount Death Play	
-	Dead Mount Death Play Part 2	
-	Deadman Wonderland	
-	Death March kara Hajimaru Isekai Kyousoukyoku	
-	Death Note	
-	Demi-chan wa Kataritai	
-	Densetsu no Yuusha no Densetsu	
-	Dungeon Meshi	
-	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka	
-	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II	
-	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Past & Future	
-	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III	
-	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen	
-	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen	
-	Eiyuu Kyoushitsu	
-	Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀	
-	Elfen Lied	
-	Eromanga-sensei	
-	Fairy Tail	
-	Fairy Tail (2014)	
-	Fairy Tail: Final Series	
-	Fantasy Bishoujo Juniku Ojisan to	
-	Fate/stay night	
-	Fumetsu no Anata e	
-	Fumetsu no Anata e Season 2	
-	Fumetsu no Anata e Season 3	
-	Futoku no Guild	
-	Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu	
-	Gakusen Toshi Asterisk	
-	Gakusen Toshi Asterisk 2nd Season	
-	Gate: Jieitai Kanochi nite, Kaku Tatakaeri	
-	Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2	
-	Genjitsu Shugi Yuusha no Oukoku Saikenki	
-	Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2	
-	Goblin Slayer	
-	Goblin Slayer II	
-	Goblin Slayer: Goblin's Crown	
-	Granblue Fantasy The Animation	
-	Granblue Fantasy The Animation Season 2	
-	Granblue Fantasy The Animation Season 2 Extras	
-	Grisaia no Kajitsu	
-	Grisaia no Rakuen	
-	Hachi-nan tte, Sore wa Nai deshou!	
-	Hagure Yuusha no Aesthetica	
-	Hai to Gensou no Grimgar	
-	Haiiro no Saga	
-	Hataage! Kemono Michi	
-	Helck	
-	Hellsing	
-	Hetalia Axis Powers	
-	Hidan no Aria	
-	Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.	
-	High School DxD	
-	High School DxD BorN	
-	High School DxD Hero	
-	High School DxD New	
-	Highschool of the Dead	
-	Hikikomari Kyuuketsuki no Monmon	
-	Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen	
-	Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season	
-	Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season	
-	Hyakka Ryouran: Samurai Girls	
-	Hyakuren no Haou to Seiyaku no Valkyria	
-	Hyouken no Majutsushi ga Sekai wo Suberu	
-	IS: Infinite Stratos	
-	IS: Infinite Stratos 2	
-	IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou	
-	Ichiban Ushiro no Daimaou	
-	Isekai Cheat Magician	
-	Isekai Maou to Shoukan Shoujo no Dorei Majutsu	
-	Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω	
-	Isekai Meikyuu de Harem wo	
-	Isekai Meikyuu de Harem wo Specials	
-	Isekai Nonbiri Nouka	
-	Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita	
-	Isekai Quartet	
-	Isekai Quartet 2	
-	Isekai Quartet Movie: Another World	
-	Isekai Shikkaku	
-	Isekai Shoukan wa Nidome desu	
-	Isekai Yakkyoku	
-	Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.	
-	Isekai wa Smartphone to Tomo ni.	
-	Isekai wa Smartphone to Tomo ni. 2	
-	Ishuzoku Reviewers	
-	Jitsu wa Ore, Saikyou deshita?	
-	Jitsu wa Watashi wa	
-	JoJo no Kimyou na Bouken (TV)	
-	JoJo no Kimyou na Bouken Part 3: Stardust Crusaders	
-	JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen	
-	JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai	
-	JoJo no Kimyou na Bouken Part 5: Ougon no Kaze	
-	JoJo no Kimyou na Bouken Part 6: Stone Ocean	
-	JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2	
-	Jujutsu Kaisen	
-	Kage no Jitsuryokusha ni Naritakute!	
-	Kage no Jitsuryokusha ni Naritakute! 2nd Season	
-	Kaifuku Jutsushi no Yarinaoshi	
-	Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life	
-	Kami no Tou	
-	Kami-tachi ni Hirowareta Otoko	
-	Kami-tachi ni Hirowareta Otoko 2nd Season	
-	Kaminaki Sekai no Kamisama Katsudou	
-	Kanojo ga Koushaku-tei ni Itta Riyuu	
-	Kashimashi: Girl Meets Girl	
-	Kaze no Stigma	
-	Kenja no Deshi wo Nanoru Kenja	
-	Kenja no Mago	
-	Kino no Tabi: The Beautiful World - The Animated Series	
-	Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu	
-	Kiss x Sis (TV)	
-	Knight's & Magic	
-	Kobayashi-san Chi no Maid Dragon	
-	Kobayashi-san Chi no Maid Dragon S	
-	Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai	
-	Koi wa Sekai Seifuku no Ato de	
-	Kono Healer, Mendokusai	
-	Kono Subarashii Sekai ni Bakuen wo!	
-	Kono Subarashii Sekai ni Shukufuku wo!	
-	Kono Subarashii Sekai ni Shukufuku wo! 2	
-	Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!	
-	Kono Subarashii Sekai ni Shukufuku wo! 3	
-	Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu	
-	Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!	
-	Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu	
-	Kuma Kuma Kuma Bear	
-	Kumo desu ga, Nani ka?	
-	Kuro no Shoukanshi	
-	Kuttsukiboshi	
-	Kuusen Madoushi Kouhosei no Kyoukan	
-	Kämpfer	
-	Leadale no Daichi nite	
-	Level 1 dakedo Unique Skill de Saikyou desu	
-	Little Witch Academia (TV)	
-	Log Horizon	
-	Log Horizon 2nd Season	
-	Log Horizon: Entaku Houkai	
-	Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru	
-	Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life	
-	MM!	
-	Machine-Doll wa Kizutsukanai	
-	Mahouka Koukou no Rettousei	
-	Mairimashita! Iruma-kun	
-	Mairimashita! Iruma-kun 2nd Season	
-	Mairimashita! Iruma-kun 3rd Season	
-	Majo no Tabitabi	
-	Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou	
-	Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2	
-	Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou	
-	Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?	
-	Maou-sama, Retry!	
-	Maoyuu Maou Yuusha	
-	Masamune-kun no Revenge	
-	Mato Seihei no Slave	
-	Megami-ryou no Ryoubo-kun.	
-	Meikyuu Black Company	
-	Mirai Nikki (TV)	
-	Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?	
-	Monster Musume no Iru Nichijou	
-	Monster Musume no Oishasan	
-	Motto To LOVE-Ru	
-	Mushoku Tensei II: Isekai Ittara Honki Dasu	
-	Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz	
-	Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2	
-	Mushoku Tensei III: Isekai Ittara Honki Dasu	
-	Mushoku Tensei: Isekai Ittara Honki Dasu	
-	Mushoku Tensei: Isekai Ittara Honki Dasu Part 2	
-	Nanatsu no Taizai	
-	Nanatsu no Taizai: Funnu no Shinpan	
-	Nanatsu no Taizai: Imashime no Fukkatsu	
-	Nanatsu no Taizai: Kamigami no Gekirin	
-	Nekopara	
-	Net-juu no Susume	
-	Netoge no Yome wa Onnanoko ja Nai to Omotta?	
-	Nichijou	
-	NieR:Automata Ver1.1a	
-	NieR:Automata Ver1.1a Part 2	
-	Niehime to Kemono no Ou	
-	Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu	
-	Nisekoi	
-	Nisekoi:	
-	No Game No Life	
-	Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.	
-	Nozoki Ana	
-	Okashi na Tensei	
-	One Piece	
-	One Punch Man	
-	One Punch Man 2nd Season	
-	One Punch Man 3	
-	Ookami to Koushinryou	
-	Ookami to Koushinryou II	
-	Ookami to Koushinryou: Merchant Meets the Wise Wolf	
-	Ore dake Haireru Kakushi Dungeon	
-	Ore dake Level Up na Ken	
-	Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken	
-	Otome Game Sekai wa Mob ni Kibishii Sekai desu	
-	Otome Game Sekai wa Mob ni Kibishii Sekai desu 2	
-	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...	
-	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Movie	
-	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X	
-	Otona no Bouguya-san	
-	Ousama Ranking	
-	Outbreak Company	
-	Overlord	
-	Overlord II	
-	Overlord III	
-	Overlord IV	
-	Overlord Movie 3: Sei Oukoku-hen	
-	Peter Grill to Kenja no Jikan	
-	Plunderer	
-	Pokemon	
-	Potion-danomi de Ikinobimasu!	
-	Princess Connect! Re:Dive	
-	Princess Connect! Re:Dive Season 2	
-	Psycho-Pass	
-	Psycho-Pass 2	
-	Psycho-Pass 3	
-	Psycho-Pass 3: First Inspector	
-	Psycho-Pass Movie 1	
-	Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu	
-	Rakudai Kishi no Cavalry	
-	Re:Zero kara Hajimeru Isekai Seikatsu	
-	Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna	
-	Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie	
-	Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow	
-	Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season	
-	Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2	
-	Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season	
-	Rekishi ni Nokoru Akujo ni Naru zo	
-	Renai Boukun	
-	Rewrite	
-	Rewrite 2nd Season	
-	Rokka no Yuusha	
-	Rokudenashi Majutsu Koushi to Akashic Records	
-	Rosario to Vampire	
-	Rosario to Vampire Capu2	
-	Saenai Heroine no Sodatekata	
-	Saenai Heroine no Sodatekata ♭	
-	Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai	
-	Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai	
-	Saihate no Paladin	
-	Saihate no Paladin: Tetsusabi no Yama no Ou	
-	Saijaku Muhai no Bahamut	
-	Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.	
-	Saikyou Onmyouji no Isekai Tenseiki	
-	Sankarea	
-	Sayounara Ryuusei, Konnichiwa Jinsei	
-	School Days	
-	Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi	
-	Seijo no Maryoku wa Bannou desu	
-	Seijo no Maryoku wa Bannou desu Season 2	
-	Seiken Gakuin no Makentsukai	
-	Seikoku no Dragonar	
-	Seikon no Qwaser	
-	Seirei Gensouki	
-	Seirei Gensouki 2	
-	Seireitsukai no Blade Dance	
-	Seitokai Yakuindomo	
-	Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru	
-	Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season	
-	Sentouin, Haken shimasu!	
-	Shelter (Music)	
-	Shijou Saikyou no Daimaou, Murabito A ni Tensei suru	
-	Shikkakumon no Saikyou Kenja	
-	Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei	
-	Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita	
-	Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd	
-	Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru	
-	Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei	
-	Shinmai Maou no Testament	
-	Shinmai Maou no Testament Burst	
-	Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou	
-	Shinmai Renkinjutsushi no Tenpo Keiei	
-	Shokei Shoujo no Virgin Road	
-	Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?	
-	Shuumatsu no Harem	
-	Sin: Nanatsu no Taizai	
-	Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita	
-	Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.	
-	Sora no Otoshimono	
-	Sora no Otoshimono Forte	
-	Sora no Otoshimono: Tokeijikake no Angeloid	
-	Soul Eater	
-	Sousou no Frieren	
-	Sousou no Frieren 2nd Season	
-	Steins;Gate	
-	Steins;Gate 0	
-	Strike the Blood	
-	Strike the Blood Final	
-	Strike the Blood II	
-	Strike the Blood III	
-	Strike the Blood IV	
-	Sword Art Online	
-	Sword Art Online II	
-	Taboo Tattoo	
-	Taimadou Gakuen 35 Shiken Shoutai	
-	Tales of Zestiria the Cross	
-	Tales of Zestiria the Cross 2nd Season	
-	Tate no Yuusha no Nariagari	
-	Tate no Yuusha no Nariagari Season 2	
-	Tate no Yuusha no Nariagari Season 3	
-	Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari	
-	Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story	
-	Tengen Toppa Gurren Lagann	
-	Tensai Ouji no Akaji Kokka Saisei Jutsu	
-	Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita	
-	Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito	
-	Tensei Kizoku, Kantei Skill de Nariagaru	
-	Tensei Oujo to Tensai Reijou no Mahou Kakumei	
-	Tensei shitara Ken deshita	
-	Tensei shitara Ken deshita 2	
-	Tensei shitara Slime Datta Ken	
-	Tensei shitara Slime Datta Ken 2nd Season	
-	Tensei shitara Slime Datta Ken 2nd Season Part 2	
-	Tensei shitara Slime Datta Ken 3rd Season	
-	Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen	
-	Tensei shitara Slime Datta Ken OVA	
-	Tensei shitara Slime Datta Ken: Coleus no Yume	
-	Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki	
-	Tensura Nikki: Tensei shitara Slime Datta Ken	
-	To LOVE-Ru	
-	To LOVE-Ru Darkness	
-	To LOVE-Ru Darkness 2nd	
-	Toaru Majutsu no Index	
-	Tondemo Skill de Isekai Hourou Meshi	
-	Trinity Seven	
-	Tsuki ga Michibiku Isekai Douchuu	
-	Tsuki ga Michibiku Isekai Douchuu 2nd Season	
-	Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san	
-	Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?	
-	Tsuyokute New Saga	
-	Urasekai Picnic	
-	Walkure Romanze	
-	Watashi ga Motete Dousunda	
-	Watashi no Oshi wa Akuyaku Reijou.	
-	Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!	
-	Yahari Ore no Seishun Love Comedy wa Machigatteiru.	
-	Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku	
-	Yasei no Last Boss ga Arawareta!	
-	Youjo Senki	
-	Youjo Senki II	
-	Yuragi-sou no Yuuna-san	
-	Yuragi-sou no Yuuna-san OVA	
-	Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau	
-	Yuusha ga Shinda!	
-	Yuusha, Yamemasu	
-	Zero kara Hajimeru Mahou no Sho	
-	Zero no Tsukaima	
-	Zero no Tsukaima F	
-	Zero no Tsukaima: Futatsuki no Kishi	
-	Zero no Tsukaima: Princesses no Rondo	
+# Gboard Dictionary version:2
+# Gboard Dictionary format:shortcut	word	language_tag	pos_tag
+	100-man no Inochi no Ue ni Ore wa Tatteiru		
+	100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season		
+	Absolute Duo		
+	Akame ga Kill!		
+	Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen		
+	Akuyaku Reijou nanode Last Boss wo Kattemimashita		
+	Angel Beats!		
+	Another		
+	Ansatsu Kyoushitsu		
+	Ansatsu Kyoushitsu 2nd Season		
+	Arifureta Shokugyou de Sekai Saikyou		
+	Arifureta Shokugyou de Sekai Saikyou 2nd Season		
+	Arifureta Shokugyou de Sekai Saikyou Season 3		
+	Arknights: Perish in Frost		
+	Azur Lane		
+	Benriya Saitou-san, Isekai ni Iku		
+	Black Clover		
+	Black Clover: Jump Festa 2016 Special		
+	Blue Archive the Animation		
+	Boku wa Tomodachi ga Sukunai		
+	Boku wa Tomodachi ga Sukunai Next		
+	Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta		
+	Boushoku no Berserk		
+	Busou Shoujo Machiavellianism		
+	Buta no Liver wa Kanetsu Shiro		
+	Charlotte		
+	Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore		
+	Chiyu Mahou no Machigatta Tsukaikata		
+	Choujigen Game Neptune The Animation		
+	Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!		
+	Clockwork Planet		
+	C³		
+	Dakara Boku wa, H ga Dekinai.		
+	Darling in the FranXX		
+	Date A Bullet: Dead or Bullet		
+	Date A Bullet: Nightmare or Queen		
+	Date A Live		
+	Date A Live II		
+	Date A Live II: Kurumi Star Festival		
+	Date A Live III		
+	Date A Live IV		
+	Date A Live V		
+	Dead Mount Death Play		
+	Dead Mount Death Play Part 2		
+	Deadman Wonderland		
+	Death March kara Hajimaru Isekai Kyousoukyoku		
+	Death Note		
+	Demi-chan wa Kataritai		
+	Densetsu no Yuusha no Densetsu		
+	Dungeon Meshi		
+	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka		
+	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II		
+	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Past & Future		
+	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III		
+	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen		
+	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen		
+	Eiyuu Kyoushitsu		
+	Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀		
+	Elfen Lied		
+	Eromanga-sensei		
+	Fairy Tail		
+	Fairy Tail (2014)		
+	Fairy Tail: Final Series		
+	Fantasy Bishoujo Juniku Ojisan to		
+	Fate/stay night		
+	Fumetsu no Anata e		
+	Fumetsu no Anata e Season 2		
+	Fumetsu no Anata e Season 3		
+	Futoku no Guild		
+	Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu		
+	Gakusen Toshi Asterisk		
+	Gakusen Toshi Asterisk 2nd Season		
+	Gate: Jieitai Kanochi nite, Kaku Tatakaeri		
+	Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2		
+	Genjitsu Shugi Yuusha no Oukoku Saikenki		
+	Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2		
+	Goblin Slayer		
+	Goblin Slayer II		
+	Goblin Slayer: Goblin's Crown		
+	Granblue Fantasy The Animation		
+	Granblue Fantasy The Animation Season 2		
+	Granblue Fantasy The Animation Season 2 Extras		
+	Grisaia no Kajitsu		
+	Grisaia no Rakuen		
+	Hachi-nan tte, Sore wa Nai deshou!		
+	Hagure Yuusha no Aesthetica		
+	Hai to Gensou no Grimgar		
+	Haiiro no Saga		
+	Hataage! Kemono Michi		
+	Helck		
+	Hellsing		
+	Hetalia Axis Powers		
+	Hidan no Aria		
+	Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.		
+	High School DxD		
+	High School DxD BorN		
+	High School DxD Hero		
+	High School DxD New		
+	Highschool of the Dead		
+	Hikikomari Kyuuketsuki no Monmon		
+	Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen		
+	Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season		
+	Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season		
+	Hyakka Ryouran: Samurai Girls		
+	Hyakuren no Haou to Seiyaku no Valkyria		
+	Hyouken no Majutsushi ga Sekai wo Suberu		
+	IS: Infinite Stratos		
+	IS: Infinite Stratos 2		
+	IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou		
+	Ichiban Ushiro no Daimaou		
+	Isekai Cheat Magician		
+	Isekai Maou to Shoukan Shoujo no Dorei Majutsu		
+	Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω		
+	Isekai Meikyuu de Harem wo		
+	Isekai Meikyuu de Harem wo Specials		
+	Isekai Nonbiri Nouka		
+	Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita		
+	Isekai Quartet		
+	Isekai Quartet 2		
+	Isekai Quartet Movie: Another World		
+	Isekai Shikkaku		
+	Isekai Shoukan wa Nidome desu		
+	Isekai Yakkyoku		
+	Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.		
+	Isekai wa Smartphone to Tomo ni.		
+	Isekai wa Smartphone to Tomo ni. 2		
+	Ishuzoku Reviewers		
+	Jitsu wa Ore, Saikyou deshita?		
+	Jitsu wa Watashi wa		
+	JoJo no Kimyou na Bouken (TV)		
+	JoJo no Kimyou na Bouken Part 3: Stardust Crusaders		
+	JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen		
+	JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai		
+	JoJo no Kimyou na Bouken Part 5: Ougon no Kaze		
+	JoJo no Kimyou na Bouken Part 6: Stone Ocean		
+	JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2		
+	Jujutsu Kaisen		
+	Kage no Jitsuryokusha ni Naritakute!		
+	Kage no Jitsuryokusha ni Naritakute! 2nd Season		
+	Kaifuku Jutsushi no Yarinaoshi		
+	Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life		
+	Kami no Tou		
+	Kami-tachi ni Hirowareta Otoko		
+	Kami-tachi ni Hirowareta Otoko 2nd Season		
+	Kaminaki Sekai no Kamisama Katsudou		
+	Kanojo ga Koushaku-tei ni Itta Riyuu		
+	Kashimashi: Girl Meets Girl		
+	Kaze no Stigma		
+	Kenja no Deshi wo Nanoru Kenja		
+	Kenja no Mago		
+	Kino no Tabi: The Beautiful World - The Animated Series		
+	Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu		
+	Kiss x Sis (TV)		
+	Knight's & Magic		
+	Kobayashi-san Chi no Maid Dragon		
+	Kobayashi-san Chi no Maid Dragon S		
+	Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai		
+	Koi wa Sekai Seifuku no Ato de		
+	Kono Healer, Mendokusai		
+	Kono Subarashii Sekai ni Bakuen wo!		
+	Kono Subarashii Sekai ni Shukufuku wo!		
+	Kono Subarashii Sekai ni Shukufuku wo! 2		
+	Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!		
+	Kono Subarashii Sekai ni Shukufuku wo! 3		
+	Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu		
+	Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!		
+	Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu		
+	Kuma Kuma Kuma Bear		
+	Kumo desu ga, Nani ka?		
+	Kuro no Shoukanshi		
+	Kuttsukiboshi		
+	Kuusen Madoushi Kouhosei no Kyoukan		
+	Kämpfer		
+	Leadale no Daichi nite		
+	Level 1 dakedo Unique Skill de Saikyou desu		
+	Little Witch Academia (TV)		
+	Log Horizon		
+	Log Horizon 2nd Season		
+	Log Horizon: Entaku Houkai		
+	Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru		
+	Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life		
+	MM!		
+	Machine-Doll wa Kizutsukanai		
+	Mahouka Koukou no Rettousei		
+	Mairimashita! Iruma-kun		
+	Mairimashita! Iruma-kun 2nd Season		
+	Mairimashita! Iruma-kun 3rd Season		
+	Majo no Tabitabi		
+	Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou		
+	Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2		
+	Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou		
+	Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?		
+	Maou-sama, Retry!		
+	Maoyuu Maou Yuusha		
+	Masamune-kun no Revenge		
+	Mato Seihei no Slave		
+	Megami-ryou no Ryoubo-kun.		
+	Meikyuu Black Company		
+	Mirai Nikki (TV)		
+	Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?		
+	Monster Musume no Iru Nichijou		
+	Monster Musume no Oishasan		
+	Motto To LOVE-Ru		
+	Mushoku Tensei II: Isekai Ittara Honki Dasu		
+	Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz		
+	Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2		
+	Mushoku Tensei III: Isekai Ittara Honki Dasu		
+	Mushoku Tensei: Isekai Ittara Honki Dasu		
+	Mushoku Tensei: Isekai Ittara Honki Dasu Part 2		
+	Nanatsu no Taizai		
+	Nanatsu no Taizai: Funnu no Shinpan		
+	Nanatsu no Taizai: Imashime no Fukkatsu		
+	Nanatsu no Taizai: Kamigami no Gekirin		
+	Nekopara		
+	Net-juu no Susume		
+	Netoge no Yome wa Onnanoko ja Nai to Omotta?		
+	Nichijou		
+	NieR:Automata Ver1.1a		
+	NieR:Automata Ver1.1a Part 2		
+	Niehime to Kemono no Ou		
+	Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu		
+	Nisekoi		
+	Nisekoi:		
+	No Game No Life		
+	Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.		
+	Nozoki Ana		
+	Okashi na Tensei		
+	One Piece		
+	One Punch Man		
+	One Punch Man 2nd Season		
+	One Punch Man 3		
+	Ookami to Koushinryou		
+	Ookami to Koushinryou II		
+	Ookami to Koushinryou: Merchant Meets the Wise Wolf		
+	Ore dake Haireru Kakushi Dungeon		
+	Ore dake Level Up na Ken		
+	Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken		
+	Otome Game Sekai wa Mob ni Kibishii Sekai desu		
+	Otome Game Sekai wa Mob ni Kibishii Sekai desu 2		
+	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...		
+	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Movie		
+	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X		
+	Otona no Bouguya-san		
+	Ousama Ranking		
+	Outbreak Company		
+	Overlord		
+	Overlord II		
+	Overlord III		
+	Overlord IV		
+	Overlord Movie 3: Sei Oukoku-hen		
+	Peter Grill to Kenja no Jikan		
+	Plunderer		
+	Pokemon		
+	Potion-danomi de Ikinobimasu!		
+	Princess Connect! Re:Dive		
+	Princess Connect! Re:Dive Season 2		
+	Psycho-Pass		
+	Psycho-Pass 2		
+	Psycho-Pass 3		
+	Psycho-Pass 3: First Inspector		
+	Psycho-Pass Movie 1		
+	Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu		
+	Rakudai Kishi no Cavalry		
+	Re:Zero kara Hajimeru Isekai Seikatsu		
+	Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna		
+	Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie		
+	Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow		
+	Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season		
+	Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2		
+	Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season		
+	Rekishi ni Nokoru Akujo ni Naru zo		
+	Renai Boukun		
+	Rewrite		
+	Rewrite 2nd Season		
+	Rokka no Yuusha		
+	Rokudenashi Majutsu Koushi to Akashic Records		
+	Rosario to Vampire		
+	Rosario to Vampire Capu2		
+	Saenai Heroine no Sodatekata		
+	Saenai Heroine no Sodatekata ♭		
+	Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai		
+	Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai		
+	Saihate no Paladin		
+	Saihate no Paladin: Tetsusabi no Yama no Ou		
+	Saijaku Muhai no Bahamut		
+	Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.		
+	Saikyou Onmyouji no Isekai Tenseiki		
+	Sankarea		
+	Sayounara Ryuusei, Konnichiwa Jinsei		
+	School Days		
+	Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi		
+	Seijo no Maryoku wa Bannou desu		
+	Seijo no Maryoku wa Bannou desu Season 2		
+	Seiken Gakuin no Makentsukai		
+	Seikoku no Dragonar		
+	Seikon no Qwaser		
+	Seirei Gensouki		
+	Seirei Gensouki 2		
+	Seireitsukai no Blade Dance		
+	Seitokai Yakuindomo		
+	Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru		
+	Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season		
+	Sentouin, Haken shimasu!		
+	Shelter (Music)		
+	Shijou Saikyou no Daimaou, Murabito A ni Tensei suru		
+	Shikkakumon no Saikyou Kenja		
+	Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei		
+	Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita		
+	Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd		
+	Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru		
+	Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei		
+	Shinmai Maou no Testament		
+	Shinmai Maou no Testament Burst		
+	Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou		
+	Shinmai Renkinjutsushi no Tenpo Keiei		
+	Shokei Shoujo no Virgin Road		
+	Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?		
+	Shuumatsu no Harem		
+	Sin: Nanatsu no Taizai		
+	Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita		
+	Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.		
+	Sora no Otoshimono		
+	Sora no Otoshimono Forte		
+	Sora no Otoshimono: Tokeijikake no Angeloid		
+	Soul Eater		
+	Sousou no Frieren		
+	Sousou no Frieren 2nd Season		
+	Steins;Gate		
+	Steins;Gate 0		
+	Strike the Blood		
+	Strike the Blood Final		
+	Strike the Blood II		
+	Strike the Blood III		
+	Strike the Blood IV		
+	Sword Art Online		
+	Sword Art Online II		
+	Taboo Tattoo		
+	Taimadou Gakuen 35 Shiken Shoutai		
+	Tales of Zestiria the Cross		
+	Tales of Zestiria the Cross 2nd Season		
+	Tate no Yuusha no Nariagari		
+	Tate no Yuusha no Nariagari Season 2		
+	Tate no Yuusha no Nariagari Season 3		
+	Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari		
+	Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story		
+	Tengen Toppa Gurren Lagann		
+	Tensai Ouji no Akaji Kokka Saisei Jutsu		
+	Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita		
+	Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito		
+	Tensei Kizoku, Kantei Skill de Nariagaru		
+	Tensei Oujo to Tensai Reijou no Mahou Kakumei		
+	Tensei shitara Ken deshita		
+	Tensei shitara Ken deshita 2		
+	Tensei shitara Slime Datta Ken		
+	Tensei shitara Slime Datta Ken 2nd Season		
+	Tensei shitara Slime Datta Ken 2nd Season Part 2		
+	Tensei shitara Slime Datta Ken 3rd Season		
+	Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen		
+	Tensei shitara Slime Datta Ken OVA		
+	Tensei shitara Slime Datta Ken: Coleus no Yume		
+	Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki		
+	Tensura Nikki: Tensei shitara Slime Datta Ken		
+	To LOVE-Ru		
+	To LOVE-Ru Darkness		
+	To LOVE-Ru Darkness 2nd		
+	Toaru Majutsu no Index		
+	Tondemo Skill de Isekai Hourou Meshi		
+	Trinity Seven		
+	Tsuki ga Michibiku Isekai Douchuu		
+	Tsuki ga Michibiku Isekai Douchuu 2nd Season		
+	Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san		
+	Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?		
+	Tsuyokute New Saga		
+	Urasekai Picnic		
+	Walkure Romanze		
+	Watashi ga Motete Dousunda		
+	Watashi no Oshi wa Akuyaku Reijou.		
+	Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!		
+	Yahari Ore no Seishun Love Comedy wa Machigatteiru.		
+	Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku		
+	Yasei no Last Boss ga Arawareta!		
+	Youjo Senki		
+	Youjo Senki II		
+	Yuragi-sou no Yuuna-san		
+	Yuragi-sou no Yuuna-san OVA		
+	Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau		
+	Yuusha ga Shinda!		
+	Yuusha, Yamemasu		
+	Zero kara Hajimeru Mahou no Sho		
+	Zero no Tsukaima		
+	Zero no Tsukaima F		
+	Zero no Tsukaima: Futatsuki no Kishi		
+	Zero no Tsukaima: Princesses no Rondo		

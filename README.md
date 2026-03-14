@@ -24,8 +24,13 @@ A lot of the words in [french.txt](dictionaries/french.txt) are simply words wit
 
 Gboard dictionaries are [Tab-separated values](https://en.wikipedia.org/wiki/Comma-separated_values) with one word per line.
 
-The first line has to start with `# Gboard Dictionary version:1` to mark the version of the dictionary. An additional comment `# From OS` can be found when users add an entry from outside of Gboard.
+The first line has to start with the header below. An additional comment `# From OS` can be found when users add an entry from outside of Gboard.
 
-| Shortcut | Expression              | Language |
-| :------- | :---------------------- | :------- |
-| iirc     | if I remember correctly | en       |
+```txt
+# Gboard Dictionary version:2
+# Gboard Dictionary format:shortcut	word	language_tag	pos_tag
+```
+
+| Shortcut | Word                    | Language | Position |
+| :------- | :---------------------- | :------- | :------- |
+| iirc     | if I remember correctly | en       |          |

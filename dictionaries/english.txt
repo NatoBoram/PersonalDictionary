@@ -1,12 +1,13 @@
-# Gboard Dictionary version:1
-	eugenicist	en
-	fiancée's	en
-	ornated	en
-	overmorrow	en
-	reimplement	en
-	sealioning	en
-	uncelebratory	en
-	zombifying	en
-iirc	if I remember correctly	en
-ik	I know	en
-jk	joke	en
+# Gboard Dictionary version:2
+# Gboard Dictionary format:shortcut	word	language_tag	pos_tag
+	eugenicist	en-CA	
+	fiancée's	en-CA	
+	ornated	en-CA	
+	overmorrow	en-CA	
+	reimplement	en-CA	
+	sealioning	en-CA	
+	uncelebratory	en-CA	
+	zombifying	en-CA	
+iirc	if I remember correctly	en-CA	
+ik	I know	en-CA	
+jk	joke	en-CA	

@@ -1,5 +1,6 @@
-# Gboard Dictionary version:1
-	Gryffindor	
-	Hufflepuff	
-	Ravenclaw	
-	Slytherin	
+# Gboard Dictionary version:2
+# Gboard Dictionary format:shortcut	word	language_tag	pos_tag
+	Gryffindor		
+	Hufflepuff		
+	Ravenclaw		
+	Slytherin		

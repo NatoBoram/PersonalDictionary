@@ -1,29 +1,30 @@
-# Gboard Dictionary version:1
-	complimarde	fr
-	décaféiné	fr
-	dégueuler	fr
-	déprioriser	fr
-	intimidateur	fr
-	l'achèterais fr
-	l'essayes	fr
-	l'intercepteur	fr
-	l'intercom	fr
-	l'ouvres	fr
-	m'asseois	fr
-	malaisant	fr
-	pendouillent	fr
-	s'écarquillent
-	s'empire	fr
-	s'hypnotiser	fr
-	sociolecte	fr
-	surprenamment	fr
-	t'es	fr
-	taponne	fr
-ca	ça	fr
-ça a	ç'a	fr
-deja	déjà	fr
-jme	j'me	fr
-jte	j'te	fr
-jtm	je t'aime	fr
-pu	plus	fr
-questce	qu'est-ce	fr
+# Gboard Dictionary version:2
+# Gboard Dictionary format:shortcut	word	language_tag	pos_tag
+	complimarde	fr-CA	
+	décaféiné	fr-CA	
+	dégueuler	fr-CA	
+	déprioriser	fr-CA	
+	intimidateur	fr-CA	
+	l'achèterais fr-CA	
+	l'essayes	fr-CA	
+	l'intercepteur	fr-CA	
+	l'intercom	fr-CA	
+	l'ouvres	fr-CA	
+	m'asseois	fr-CA	
+	malaisant	fr-CA	
+	pendouillent	fr-CA	
+	s'écarquillent-CA	
+	s'empire	fr-CA	
+	s'hypnotiser	fr-CA	
+	sociolecte	fr-CA	
+	surprenamment	fr-CA	
+	t'es	fr-CA	
+	taponne	fr-CA	
+ca	ça	fr-CA	
+ça a	ç'a	fr-CA	
+deja	déjà	fr-CA	
+jme	j'me	fr-CA	
+jte	j'te	fr-CA	
+jtm	je t'aime	fr-CA	
+pu	plus	fr-CA	
+questce	qu'est-ce	fr-CA	
