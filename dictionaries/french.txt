@@ -8,7 +8,7 @@
 	épousseter	fr-CA	
 	étasunien	fr-CA	
 	intimidateur	fr-CA	
-	l'achèterais fr-CA	
+	l'achèterais	fr-CA	
 	l'essayes	fr-CA	
 	l'intercepteur	fr-CA	
 	l'intercom	fr-CA	
@@ -16,7 +16,7 @@
 	m'asseois	fr-CA	
 	malaisant	fr-CA	
 	pendouillent	fr-CA	
-	s'écarquillent-CA	
+	s'écarquillent	fr-CA	
 	s'empire	fr-CA	
 	s'hypnotiser	fr-CA	
 	sociolecte	fr-CA	
