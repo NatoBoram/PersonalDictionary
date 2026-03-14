@@ -1,0 +1,101 @@
+name: Node.js CI
+
+on:
+  merge_group:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    permissions:
+      contents: read
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+      - uses: pnpm/action-setup@v4
+        with:
+          version: latest
+      - uses: actions/setup-node@v6
+        with:
+          cache: pnpm
+          node-version: latest
+
+      - run: pnpm install --frozen-lockfile --strict-peer-dependencies
+      - run: pnpm run build:all
+      - run: pnpm run lint
+
+      - if: github.actor != 'nektos/act'
+        uses: actions/upload-artifact@v6
+        with:
+          name: PersonalDictionary
+          path: PersonalDictionary-*.zip
+          compression-level: 9
+          if-no-files-found: error
+
+  fix:
+    permissions:
+      contents: write
+
+    needs: test
+    if: failure() && github.event_name != 'merge_group' && github.actor != 'github-actions[bot]' && github.actor != 'nektos/act'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.head_ref || github.ref }}
+      - uses: pnpm/action-setup@v4
+        with:
+          version: latest
+      - uses: actions/setup-node@v6
+        with:
+          cache: pnpm
+          node-version: latest
+
+      - run: |
+          pnpm install --fix-lockfile --no-frozen-lockfile
+          git add .
+      - id: commit-lockfile
+        uses: qoomon/actions--create-commit@v1
+        with:
+          message: |
+            📌 pnpm install --fix-lockfile
+
+            [dependabot skip]
+          skip-empty: true
+
+      - run: |
+          pnpm run format
+          git add .
+      - id: commit-format
+        uses: qoomon/actions--create-commit@v1
+        with:
+          message: |
+            🎨 pnpm run format
+
+            [dependabot skip]
+          skip-empty: true
+
+      - run: |
+          pnpm run lint:fix
+          git add .
+      - id: commit-lint
+        uses: qoomon/actions--create-commit@v1
+        with:
+          message: |
+            🚨 pnpm run lint:fix
+
+            [dependabot skip]
+          skip-empty: true
+
+      - if: steps.commit-lockfile.outputs.commit || steps.commit-format.outputs.commit || steps.commit-lint.outputs.commit
+        run: git push
