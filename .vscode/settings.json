@@ -2,14 +2,21 @@
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"[plaintext]": {
+	"[plaintext][tsv]": {
 		"editor.insertSpaces": false,
+		"editor.quickSuggestions": {
+			"strings": "off"
+		},
 		"files.insertFinalNewline": false,
 		"files.trimFinalNewlines": true,
 		"files.trimTrailingWhitespace": false
 	},
 	"github.copilot.enable": {
-		"plaintext": false
+		"plaintext": false,
+		"tsv": false
 	},
-	"hungryDelete.keepOneSpace": false
+	"hungryDelete.keepOneSpace": false,
+	"rainbow_csv.comment_prefix": "#",
+	"rainbow_csv.virtual_alignment_char": "space",
+	"rainbow_csv.virtual_alignment_mode": "always"
 }
