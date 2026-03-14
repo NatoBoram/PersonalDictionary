@@ -1,10 +1,10 @@
 ---
-applyTo: dictionaries/*.txt
+applyTo: dictionaries/*.tsv
 ---
 
 - Keep the required Gboard header at the top of every dictionary file:
 
-  ```txt
+  ```tsv
   # Gboard Dictionary version:2
   # Gboard Dictionary format:shortcut	word	language_tag	pos_tag
   ```

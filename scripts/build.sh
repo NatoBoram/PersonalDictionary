@@ -13,7 +13,7 @@ if ! command -v 7z >/dev/null; then
 fi
 
 dictionary_name=$1
-dictionary_path="dictionaries/$dictionary_name.txt"
+dictionary_path="dictionaries/$dictionary_name.tsv"
 if [ ! -f "$dictionary_path" ]; then
 	echo "Dictionary not found: $dictionary_path" >&2
 	exit 1
