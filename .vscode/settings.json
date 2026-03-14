@@ -2,10 +2,12 @@
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
-	"editor.insertSpaces": false,
-	"files.insertFinalNewline": false,
-	"files.trimFinalNewlines": true,
-	"files.trimTrailingWhitespace": false,
+	"[plaintext]": {
+		"editor.insertSpaces": false,
+		"files.insertFinalNewline": false,
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": false
+	},
 	"github.copilot.enable": {
 		"plaintext": false
 	},

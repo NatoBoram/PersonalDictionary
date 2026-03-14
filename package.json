@@ -31,9 +31,11 @@
 		"build:all": "./scripts/build_all.sh",
 		"clean": "rm -rf node_modules PersonalDictionary-*.zip",
 		"format": "prettier --write .",
-		"lint": "prettier --check ."
+		"lint": "markdownlint-cli2 \"**/*.md\" && prettier --check .",
+		"lint:fix": "markdownlint-cli2 \"**/*.md\" --fix; prettier --list-different --write ."
 	},
 	"devDependencies": {
+		"markdownlint-cli2": "^0.21.0",
 		"prettier": "^3.8.1"
 	},
 	"private": true,
