@@ -1,0 +1,29 @@
+# Gboard Dictionary version:1
+	complimarde	fr
+	décaféiné	fr
+	dégueuler	fr
+	déprioriser	fr
+	intimidateur	fr
+	l'achèterais fr
+	l'essayes	fr
+	l'intercepteur	fr
+	l'intercom	fr
+	l'ouvres	fr
+	m'asseois	fr
+	malaisant	fr
+	pendouillent	fr
+	s'écarquillent
+	s'empire	fr
+	s'hypnotiser	fr
+	sociolecte	fr
+	surprenamment	fr
+	t'es	fr
+	taponne	fr
+ca	ça	fr
+ça a	ç'a	fr
+deja	déjà	fr
+jme	j'me	fr
+jte	j'te	fr
+jtm	je t'aime	fr
+pu	plus	fr
+questce	qu'est-ce	fr

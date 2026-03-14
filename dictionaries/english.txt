@@ -1,3 +1,12 @@
 # Gboard Dictionary version:1
+	eugenicist	en
+	fiancée's	en
+	ornated	en
+	overmorrow	en
+	reimplement	en
+	sealioning	en
+	uncelebratory	en
+	zombifying	en
 iirc	if I remember correctly	en
 ik	I know	en
+jk	joke	en

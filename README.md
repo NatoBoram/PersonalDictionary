@@ -18,12 +18,14 @@ These dictionaries are for my personal use, and as such, have a few guidelines t
 1. Proper names are in their original language and stored under "All languages".
 2. The whole world wasn't copied to these dictionaries, only what's relevant to me.
 
+A lot of the words in [french.txt](dictionaries/french.txt) are simply words with apostrophes, which Gboard seems to struggle with.
+
 ## Format
 
 Gboard dictionaries are [Tab-separated values](https://en.wikipedia.org/wiki/Comma-separated_values) with one word per line.
 
 The first line has to start with `# Gboard Dictionary version:1` to mark the version of the dictionary. An additional comment `# From OS` can be found when users add an entry from outside of Gboard.
 
-| Shortcut |       Expression        | Language |
+| Shortcut | Expression              | Language |
 | :------- | :---------------------- | :------- |
 | iirc     | if I remember correctly | en       |
