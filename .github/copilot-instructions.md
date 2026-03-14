@@ -13,6 +13,7 @@
 - Build one dictionary with `pnpm build <dictionary-name>`.
 - Build all dictionaries with `pnpm build:all`.
 - Validate formatting with `pnpm lint` and fix formatting with `pnpm lint:fix`.
+- There is no automated test suite in this repository.
 
 ## Dictionary conventions
 
@@ -32,3 +33,4 @@
 - `scripts/build.sh`: canonical single-dictionary packaging flow.
 - `scripts/build_all.sh`: canonical batch packaging flow.
 - `dictionaries/english.tsv` and `dictionaries/french.tsv`: concrete TSV examples.
+- `.github/instructions/dictionary.instructions.md`: file-scoped rules for dictionary TSV files.

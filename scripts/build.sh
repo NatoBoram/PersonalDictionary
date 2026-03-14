@@ -2,16 +2,25 @@
 
 set -eu
 
-if [ "$#" -ne 1 ]; then
+# Help
+if [ "$#" -eq 0 ]; then
 	echo "Usage: $0 <dictionary>"
 	exit 0
 fi
 
+# Invalid argument count
+if [ "$#" -ne 1 ]; then
+	echo "Usage: $0 <dictionary>" >&2
+	exit 1
+fi
+
+# 7z is required
 if ! command -v 7z >/dev/null; then
 	echo "7z: command not found" >&2
 	exit 1
 fi
 
+# In case a random dictionary is given
 dictionary_name=$1
 dictionary_path="dictionaries/$dictionary_name.tsv"
 if [ ! -f "$dictionary_path" ]; then
