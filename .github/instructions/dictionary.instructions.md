@@ -15,6 +15,6 @@ applyTo: dictionaries/*.txt
 - Use language tags that match existing project usage, such as `en-CA` and `fr-CA`.
 - Preserve words with apostrophes and accents exactly as written.
 - Keep entries sorted where practical and do not reorder headers.
-- Keep dictionary file names kebab-case.
+- Keep dictionary file names stable and kebab-case.
 
 Reference: `README.md` format section is canonical for Gboard TSV expectations.
