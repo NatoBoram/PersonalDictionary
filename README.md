@@ -11,6 +11,14 @@ A collection of dictionaries that can be imported into Gboard.
 
 Please avoid importing a dictionary twice. Doing so will cause issues in Gboard and you'll have to reboot your device to get it back to a working state.
 
+Alternatively, there are scripts to automatically build them:
+
+```sh
+pnpm run build <dictionary>
+```
+
+This generates a `PersonalDictionary-<dictionary>.zip` that's ready to import into Gboard. You can also run `pnpm run build:all` to build all the dictionaries at once.
+
 ## Guidelines
 
 These dictionaries are for my personal use, and as such, have a few guidelines that you might not agree with. Use at your own discretion.
@@ -22,7 +30,7 @@ A lot of the words in [french.txt](dictionaries/french.txt) are simply words wit
 
 ## Format
 
-Gboard dictionaries are [Tab-separated values](https://en.wikipedia.org/wiki/Comma-separated_values) with one word per line.
+Gboard dictionaries are [tab-separated values](https://en.wikipedia.org/wiki/Comma-separated_values) with one word per line.
 
 The first line has to start with the header below. An additional comment `# From OS` can be found when users add an entry from outside of Gboard.
 
