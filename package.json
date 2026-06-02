@@ -35,8 +35,8 @@
 		"lint:fix": "markdownlint-cli2 \"**/*.md\" --fix; prettier --list-different --write ."
 	},
 	"devDependencies": {
-		"markdownlint-cli2": "^0.22.0",
-		"prettier": "^3.8.1"
+		"markdownlint-cli2": "^0.22.1",
+		"prettier": "^3.8.3"
 	},
 	"private": true,
 	"type": "module"
